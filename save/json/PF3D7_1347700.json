@@ -1,0 +1,89 @@
+{
+    "Associated Publications": {
+        "Num of Associated Publications": 21
+    },
+    "Essentiality": {
+        "Zhang Phenotype: Non - Mutable in CDS": {
+            "Mutagenesis Index Score (MIS)": 0.622,
+            "Mutagenesis Fitness Score (MFS)": -2.514,
+            "Number of insertions in CDS": 0.0
+        },
+        "PlasmoGEM Phenotype: Slow (Pb ortholog: PBANKA_1360500)": {
+            "Relative Growth Rate": "0.57 \u00b1 0.23",
+            "Confidence": 4.36
+        },
+        "RMgmDB ABS Phenotype: Different from wild type (Pb ortholog: PBANKA_1360500)": {
+            "Gene Modification": "Disrupted",
+            "RMgmDB ID Link": "RMgm-3701"
+        }
+    },
+    "Genetic Variation": {
+        "PlasmoDB Total SNPs": 151.0,
+        "PlasmoDB SNP count": "Non-coding: 134 | Synonymous: 9 | Nonsynonymous: 8 | Stop Codon: 0"
+    },
+    "Binding Evidence": {
+        "AlphaFill Uniprot ID": "Q8IDM2",
+        "\"Best\" AlphaFill ligand hit": "CHT (choline ion, Local RMSD=0.42) with 4ZCQ (Global RMSD=2.23)",
+        "BRENDA ID": [
+            {
+                "ID": "2.7.7.14",
+                "Description": "ethanolamine-phosphate cytidylyltransferase"
+            }
+        ],
+        "Num of Orthology to BindingDB Entries": 0
+    },
+    "Orthology Information": {
+        "Ortholog Group (OrthoMCL)": "OG6_100945",
+        "Most Similar Human Ortholog": "I3L1F9",
+        "TM-align": {
+            "TM-align score": 0.89849,
+            "TM-align length": "34 / 573",
+            "TM-align RMSD": 0.54,
+            "TM-align sequence identity": 0.412
+        },
+        "All Human Orthologs (OrthoMCL)": [
+            {
+                "ID": "ENSG00000185813",
+                "Description": "phosphate cytidylyltransferase 2, ethanolamine"
+            }
+        ]
+    },
+    "Protein Information": {
+        "Protein length": 573,
+        "Molecular Weight (kDa)": 66.039,
+        "Isoelectric Point": 5.55,
+        "UniProt IDs": [
+            {
+                "UniProt ID": "Q8IDM2",
+                "UniProt Link": "https://www.uniprot.org/uniprotkb/Q8IDM2/entry"
+            }
+        ],
+        "Num of Protein Domain Annotations": 3,
+        "Protein Domain Annotations": [
+            {
+                "Database": "InterPro",
+                "ID": "IPR004821",
+                "Description": "Cytidyltransferase-like domain"
+            },
+            {
+                "Database": "PFam",
+                "ID": "PF01467",
+                "Description": "Cytidyltransferase-like domain"
+            },
+            {
+                "Database": "Superfamily",
+                "ID": "SSF52374",
+                "Description": "N/A"
+            }
+        ],
+        "PDB ID(s)": null,
+        "Num of PDB ID": 0
+    },
+    "Resistome Mutations": {
+        "Resistome Missense Mutations": null,
+        "Num of Resistome Missense Mutations": 0,
+        "Resistome Compounds with Missense Mutations": null,
+        "Num of Resistome Compounds with Missense Mutations": 0,
+        "Num of Samples with Disruptive Mutations": "0 (0 missense, 0 \"interesting\" missense)"
+    }
+}

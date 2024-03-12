@@ -1,0 +1,28 @@
+,0
+Num of Associated Publications,1
+Mutagenesis Index Score (MIS),0.123
+Mutagenesis Fitness Score (MFS),-3.073
+Number of insertions in CDS,0.0
+Relative Growth Rate,0.08 ± 0.08
+Gene Modification,
+PlasmoDB Total SNPs,172.0
+PlasmoDB SNP count,Non-coding: 156 | Synonymous: 13 | Nonsynonymous: 3 | Stop Codon: 0
+AlphaFill Uniprot ID,Q8II05
+"""Best"" AlphaFill ligand hit","OLB ((2s)-2,3-dihydroxypropyl (9z)-octadec-9-enoate, Local RMSD=0.29) with 6JO0 (Global RMSD=15.01)"
+BRENDA ID,['1.3.99.5']
+Num of Orthology to BindingDB Entries,5
+Most Similar Human Ortholog,Q9NZ01
+TM-align score,0.94179
+TM-align length,292 / 296
+TM-align RMSD,1.51
+TM-align sequence identity,0.37
+Protein length,296
+Molecular Weight (kDa),35.468
+Isoelectric Point,9.84
+UniProt IDs,['Q8II05']
+PDB ID(s),
+Num of PDB ID,0
+Num of Protein Domain Annotations,5
+Num of Resistome Missense Mutations,0
+Num of Resistome Compounds with Missense Mutations,0
+Num of Samples with Disruptive Mutations,"0 (0 missense, 0 ""interesting"" missense)"

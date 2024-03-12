@@ -1,0 +1,109 @@
+{
+    "Associated Publications": {
+        "Num of Associated Publications": 23
+    },
+    "Essentiality": {
+        "Zhang Phenotype: Non - Mutable in CDS": {
+            "Mutagenesis Index Score (MIS)": 0.133,
+            "Mutagenesis Fitness Score (MFS)": -3.279,
+            "Number of insertions in CDS": 0.0
+        },
+        "PlasmoGEM Phenotype: Essential (Pb ortholog: PBANKA_0917500)": {
+            "Relative Growth Rate": "0.03 \u00b1 0.08",
+            "Confidence": 6.49
+        }
+    },
+    "Genetic Variation": {
+        "PlasmoDB Total SNPs": 200.0,
+        "PlasmoDB SNP count": "Non-coding: 42 | Synonymous: 78 | Nonsynonymous: 80 | Stop Codon: 0"
+    },
+    "Binding Evidence": {
+        "AlphaFill Uniprot ID": "Q8II57",
+        "\"Best\" AlphaFill ligand hit": "ATP (adenosine-5'-triphosphate, Local RMSD=0.08) with 5ZXD (Global RMSD=5.96)",
+        "BRENDA ID": [],
+        "Num of Orthology to BindingDB Entries": 0
+    },
+    "Orthology Information": {
+        "Ortholog Group (OrthoMCL)": "OG6_101499",
+        "Most Similar Human Ortholog": "V9GYN9",
+        "TM-align": {
+            "TM-align score": 0.66922,
+            "TM-align length": "49 / 1818",
+            "TM-align RMSD": 2.34,
+            "TM-align sequence identity": 0.469
+        },
+        "All Human Orthologs (OrthoMCL)": [
+            {
+                "ID": "ENSG00000072501",
+                "Description": "structural maintenance of chromosomes 1A"
+            },
+            {
+                "ID": "ENSG00000077935",
+                "Description": "structural maintenance of chromosomes 1B"
+            }
+        ]
+    },
+    "Protein Information": {
+        "Protein length": 1818,
+        "Molecular Weight (kDa)": 214.676,
+        "Isoelectric Point": 7.48,
+        "UniProt IDs": [
+            {
+                "UniProt ID": "Q8II57",
+                "UniProt Link": "https://www.uniprot.org/uniprotkb/Q8II57/entry"
+            }
+        ],
+        "Num of Protein Domain Annotations": 8,
+        "Protein Domain Annotations": [
+            {
+                "Database": "InterPro",
+                "ID": "IPR003395",
+                "Description": "RecF/RecN/SMC, N-terminal"
+            },
+            {
+                "Database": "InterPro",
+                "ID": "IPR010935",
+                "Description": "SMCs flexible hinge"
+            },
+            {
+                "Database": "InterPro",
+                "ID": "IPR027417",
+                "Description": "P-loop containing nucleoside triphosphate hydrolase"
+            },
+            {
+                "Database": "InterPro",
+                "ID": "IPR036277",
+                "Description": "SMCs flexible hinge superfamily"
+            },
+            {
+                "Database": "PFam",
+                "ID": "PF02463",
+                "Description": "RecF/RecN/SMC, N-terminal"
+            },
+            {
+                "Database": "PFam",
+                "ID": "PF06470",
+                "Description": "SMCs flexible hinge"
+            },
+            {
+                "Database": "Superfamily",
+                "ID": "SSF52540",
+                "Description": "P-loop containing nucleoside triphosphate hydrolase"
+            },
+            {
+                "Database": "Superfamily",
+                "ID": "SSF75553",
+                "Description": "SMCs flexible hinge superfamily"
+            }
+        ],
+        "PDB ID(s)": null,
+        "Num of PDB ID": 0
+    },
+    "Resistome Mutations": {
+        "Resistome Missense Mutations": null,
+        "Num of Resistome Missense Mutations": 0,
+        "Resistome Compounds with Missense Mutations": null,
+        "Num of Resistome Compounds with Missense Mutations": 0,
+        "Num of Samples with Disruptive Mutations": "0 (0 missense, 0 \"interesting\" missense)"
+    }
+}

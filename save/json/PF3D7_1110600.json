@@ -1,0 +1,110 @@
+{
+    "Associated Publications": {
+        "Num of Associated Publications": 2
+    },
+    "Essentiality": {
+        "Zhang Phenotype: Non - Mutable in CDS": {
+            "Mutagenesis Index Score (MIS)": 0.121,
+            "Mutagenesis Fitness Score (MFS)": -3.06,
+            "Number of insertions in CDS": 0.0
+        },
+        "PlasmoGEM Phenotype: Essential (Pb ortholog: PBANKA_0937000)": {
+            "Relative Growth Rate": "0.06 \u00b1 0.05",
+            "Confidence": 7.41
+        }
+    },
+    "Genetic Variation": {
+        "PlasmoDB Total SNPs": 98.0,
+        "PlasmoDB SNP count": "Non-coding: 80 | Synonymous: 13 | Nonsynonymous: 5 | Stop Codon: 0"
+    },
+    "Binding Evidence": {
+        "AlphaFill Uniprot ID": "Q8IIQ5",
+        "\"Best\" AlphaFill ligand hit": "NO3 (nitrate ion, Local RMSD=0.12) with 3CJT (Global RMSD=4.92)",
+        "BRENDA ID": [],
+        "Num of Orthology to BindingDB Entries": 0
+    },
+    "Orthology Information": {
+        "Ortholog Group (OrthoMCL)": "OG6_100842",
+        "Most Similar Human Ortholog": "Q9Y3B7",
+        "TM-align": {
+            "TM-align score": 0.82118,
+            "TM-align length": "167 / 178",
+            "TM-align RMSD": 2.67,
+            "TM-align sequence identity": 0.317
+        },
+        "All Human Orthologs (OrthoMCL)": [
+            {
+                "ID": "ENSG00000174547",
+                "Description": "mitochondrial ribosomal protein L11"
+            }
+        ]
+    },
+    "Protein Information": {
+        "Protein length": 178,
+        "Molecular Weight (kDa)": 20.479,
+        "Isoelectric Point": 10.83,
+        "UniProt IDs": [
+            {
+                "UniProt ID": "Q8IIQ5",
+                "UniProt Link": "https://www.uniprot.org/uniprotkb/Q8IIQ5/entry"
+            }
+        ],
+        "Num of Protein Domain Annotations": 9,
+        "Protein Domain Annotations": [
+            {
+                "Database": "InterPro",
+                "ID": "IPR000911",
+                "Description": "Ribosomal protein L11/L12"
+            },
+            {
+                "Database": "InterPro",
+                "ID": "IPR020783",
+                "Description": "Ribosomal protein L11, C-terminal"
+            },
+            {
+                "Database": "InterPro",
+                "ID": "IPR020784",
+                "Description": "Ribosomal protein L11, N-terminal"
+            },
+            {
+                "Database": "InterPro",
+                "ID": "IPR036769",
+                "Description": "Ribosomal protein L11, C-terminal domain superfamily"
+            },
+            {
+                "Database": "InterPro",
+                "ID": "IPR036796",
+                "Description": "Ribosomal protein L11/L12, N-terminal domain superfamily"
+            },
+            {
+                "Database": "PFam",
+                "ID": "PF00298",
+                "Description": "Ribosomal protein L11, C-terminal"
+            },
+            {
+                "Database": "PFam",
+                "ID": "PF03946",
+                "Description": "Ribosomal protein L11, N-terminal"
+            },
+            {
+                "Database": "Superfamily",
+                "ID": "SSF46906",
+                "Description": "Ribosomal protein L11, C-terminal domain superfamily"
+            },
+            {
+                "Database": "Superfamily",
+                "ID": "SSF54747",
+                "Description": "Ribosomal protein L11/L12, N-terminal domain superfamily"
+            }
+        ],
+        "PDB ID(s)": null,
+        "Num of PDB ID": 0
+    },
+    "Resistome Mutations": {
+        "Resistome Missense Mutations": null,
+        "Num of Resistome Missense Mutations": 0,
+        "Resistome Compounds with Missense Mutations": null,
+        "Num of Resistome Compounds with Missense Mutations": 0,
+        "Num of Samples with Disruptive Mutations": "0 (0 missense, 0 \"interesting\" missense)"
+    }
+}

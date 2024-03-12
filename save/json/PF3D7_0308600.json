@@ -1,0 +1,135 @@
+{
+    "Associated Publications": {
+        "Num of Associated Publications": 25
+    },
+    "Essentiality": {
+        "Zhang Phenotype: Non - Mutable in CDS": {
+            "Mutagenesis Index Score (MIS)": 0.145,
+            "Mutagenesis Fitness Score (MFS)": -2.928,
+            "Number of insertions in CDS": 0.0
+        },
+        "PlasmoGEM Phenotype: Essential (Pb ortholog: PBANKA_0406800)": {
+            "Relative Growth Rate": "0.12 \u00b1 0.18",
+            "Confidence": 4.84
+        }
+    },
+    "Genetic Variation": {
+        "PlasmoDB Total SNPs": 110.0,
+        "PlasmoDB SNP count": "Non-coding: 80 | Synonymous: 20 | Nonsynonymous: 10 | Stop Codon: 0"
+    },
+    "Binding Evidence": {
+        "AlphaFill Uniprot ID": "O77325",
+        "\"Best\" AlphaFill ligand hit": "FAR (farnesyl, Local RMSD=1.40) with 1A0R (Global RMSD=3.26)",
+        "BRENDA ID": [
+            {
+                "ID": "2.3.2.27",
+                "Description": "RING-type E3 ubiquitin transferase"
+            }
+        ],
+        "Num of Orthology to BindingDB Entries": 1
+    },
+    "Orthology Information": {
+        "Ortholog Group (OrthoMCL)": "OG6_102145",
+        "Most Similar Human Ortholog": "Q9UMS4",
+        "TM-align": {
+            "TM-align score": 0.65464,
+            "TM-align length": "340 / 532",
+            "TM-align RMSD": 1.74,
+            "TM-align sequence identity": 0.341
+        },
+        "All Human Orthologs (OrthoMCL)": [
+            {
+                "ID": "ENSG00000110107",
+                "Description": "pre-mRNA processing factor 19"
+            }
+        ]
+    },
+    "Protein Information": {
+        "Protein length": 532,
+        "Molecular Weight (kDa)": 60.754,
+        "Isoelectric Point": 6.62,
+        "UniProt IDs": [
+            {
+                "UniProt ID": "O77325",
+                "UniProt Link": "https://www.uniprot.org/uniprotkb/O77325/entry"
+            }
+        ],
+        "Num of Protein Domain Annotations": 13,
+        "Protein Domain Annotations": [
+            {
+                "Database": "InterPro",
+                "ID": "IPR001680",
+                "Description": "WD40 repeat"
+            },
+            {
+                "Database": "InterPro",
+                "ID": "IPR003613",
+                "Description": "U box domain"
+            },
+            {
+                "Database": "InterPro",
+                "ID": "IPR013915",
+                "Description": "Pre-mRNA-splicing factor 19"
+            },
+            {
+                "Database": "InterPro",
+                "ID": "IPR019775",
+                "Description": "WD40 repeat, conserved site"
+            },
+            {
+                "Database": "InterPro",
+                "ID": "IPR020472",
+                "Description": "G-protein beta WD-40 repeat"
+            },
+            {
+                "Database": "InterPro",
+                "ID": "IPR036126",
+                "Description": "Tubulin binding cofactor A superfamily"
+            },
+            {
+                "Database": "InterPro",
+                "ID": "IPR036322",
+                "Description": "WD40-repeat-containing domain superfamily"
+            },
+            {
+                "Database": "InterPro",
+                "ID": "IPR038959",
+                "Description": "Pre-mRNA-processing factor 19"
+            },
+            {
+                "Database": "PFam",
+                "ID": "PF00400",
+                "Description": "WD40 repeat"
+            },
+            {
+                "Database": "PFam",
+                "ID": "PF08606",
+                "Description": "Pre-mRNA-splicing factor 19"
+            },
+            {
+                "Database": "Superfamily",
+                "ID": "SSF46988",
+                "Description": "Tubulin binding cofactor A superfamily"
+            },
+            {
+                "Database": "Superfamily",
+                "ID": "SSF50978",
+                "Description": "WD40-repeat-containing domain superfamily"
+            },
+            {
+                "Database": "Superfamily",
+                "ID": "SSF57850",
+                "Description": ""
+            }
+        ],
+        "PDB ID(s)": null,
+        "Num of PDB ID": 0
+    },
+    "Resistome Mutations": {
+        "Resistome Missense Mutations": null,
+        "Num of Resistome Missense Mutations": 0,
+        "Resistome Compounds with Missense Mutations": null,
+        "Num of Resistome Compounds with Missense Mutations": 0,
+        "Num of Samples with Disruptive Mutations": "0 (0 missense, 0 \"interesting\" missense)"
+    }
+}

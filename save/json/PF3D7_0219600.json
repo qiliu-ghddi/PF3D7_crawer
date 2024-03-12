@@ -1,0 +1,143 @@
+{
+    "Associated Publications": {
+        "Num of Associated Publications": 24
+    },
+    "Essentiality": {
+        "Zhang Phenotype: Non - Mutable in CDS": {
+            "Mutagenesis Index Score (MIS)": 0.125,
+            "Mutagenesis Fitness Score (MFS)": -2.912,
+            "Number of insertions in CDS": 0.0
+        },
+        "PlasmoGEM Phenotype: Dispensable (Pb ortholog: PBANKA_0316000)": {
+            "Relative Growth Rate": "0.84 \u00b1 0.74",
+            "Confidence": 1.98
+        },
+        "RMgmDB ABS Phenotype: Different from wild type (Pb ortholog: PBANKA_0316000)": {
+            "Gene Modification": "Disrupted",
+            "RMgmDB ID Link": "RMgm-1823"
+        }
+    },
+    "Genetic Variation": {
+        "PlasmoDB Total SNPs": 106.0,
+        "PlasmoDB SNP count": "Non-coding: 42 | Synonymous: 45 | Nonsynonymous: 18 | Stop Codon: 1"
+    },
+    "Binding Evidence": {
+        "AlphaFill Uniprot ID": "O96271",
+        "\"Best\" AlphaFill ligand hit": "AGS (phosphothiophosphoric acid-adenylate ester, Local RMSD=0.11) with 1SXJ (Global RMSD=6.04)",
+        "BRENDA ID": [],
+        "Num of Orthology to BindingDB Entries": 0
+    },
+    "Orthology Information": {
+        "Ortholog Group (OrthoMCL)": "OG6_101059",
+        "Most Similar Human Ortholog": "P35251",
+        "TM-align": {
+            "TM-align score": 0.59872,
+            "TM-align length": "672 / 904",
+            "TM-align RMSD": 5.93,
+            "TM-align sequence identity": 0.271
+        },
+        "All Human Orthologs (OrthoMCL)": [
+            {
+                "ID": "ENSG00000035928",
+                "Description": "replication factor C subunit 1"
+            }
+        ]
+    },
+    "Protein Information": {
+        "Protein length": 904,
+        "Molecular Weight (kDa)": 104.185,
+        "Isoelectric Point": 9.55,
+        "UniProt IDs": [
+            {
+                "UniProt ID": "O96271",
+                "UniProt Link": "https://www.uniprot.org/uniprotkb/O96271/entry"
+            },
+            {
+                "UniProt ID": "Q9GQW6",
+                "UniProt Link": "https://www.uniprot.org/uniprotkb/Q9GQW6/entry"
+            }
+        ],
+        "Num of Protein Domain Annotations": 14,
+        "Protein Domain Annotations": [
+            {
+                "Database": "InterPro",
+                "ID": "IPR001357",
+                "Description": "BRCT domain"
+            },
+            {
+                "Database": "InterPro",
+                "ID": "IPR003593",
+                "Description": "AAA+ ATPase domain"
+            },
+            {
+                "Database": "InterPro",
+                "ID": "IPR003959",
+                "Description": "ATPase, AAA-type, core"
+            },
+            {
+                "Database": "InterPro",
+                "ID": "IPR008921",
+                "Description": "DNA polymerase III, clamp loader complex, gamma/delta/delta subunit, C-terminal"
+            },
+            {
+                "Database": "InterPro",
+                "ID": "IPR012178",
+                "Description": "Replication factor C subunit 1"
+            },
+            {
+                "Database": "InterPro",
+                "ID": "IPR013725",
+                "Description": "DNA replication factor RFC1, C-terminal"
+            },
+            {
+                "Database": "InterPro",
+                "ID": "IPR027417",
+                "Description": "P-loop containing nucleoside triphosphate hydrolase"
+            },
+            {
+                "Database": "InterPro",
+                "ID": "IPR036420",
+                "Description": "BRCT domain superfamily"
+            },
+            {
+                "Database": "PFam",
+                "ID": "PF00004",
+                "Description": "ATPase, AAA-type, core"
+            },
+            {
+                "Database": "PFam",
+                "ID": "PF00533",
+                "Description": "BRCT domain"
+            },
+            {
+                "Database": "PFam",
+                "ID": "PF08519",
+                "Description": "DNA replication factor RFC1, C-terminal"
+            },
+            {
+                "Database": "Superfamily",
+                "ID": "SSF48019",
+                "Description": "DNA polymerase III, clamp loader complex, gamma/delta/delta subunit, C-terminal"
+            },
+            {
+                "Database": "Superfamily",
+                "ID": "SSF52113",
+                "Description": "BRCT domain superfamily"
+            },
+            {
+                "Database": "Superfamily",
+                "ID": "SSF52540",
+                "Description": "P-loop containing nucleoside triphosphate hydrolase"
+            }
+        ],
+        "PDB ID(s)": null,
+        "Num of PDB ID": 0
+    },
+    "Resistome Mutations": {
+        "Resistome Missense Mutations": null,
+        "Num of Resistome Missense Mutations": 0,
+        "Resistome Compounds with Missense Mutations": null,
+        "Num of Resistome Compounds with Missense Mutations": 0,
+        "Num of Samples with Disruptive Mutations": "0 (0 missense, 0 \"interesting\" missense)"
+    }
+}

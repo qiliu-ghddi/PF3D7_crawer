@@ -1,0 +1,86 @@
+{
+    "Associated Publications": {
+        "Num of Associated Publications": 14
+    },
+    "Essentiality": {
+        "Zhang Phenotype: Non - Mutable in CDS": {
+            "Mutagenesis Index Score (MIS)": 0.12,
+            "Mutagenesis Fitness Score (MFS)": -2.821,
+            "Number of insertions in CDS": 0.0
+        }
+    },
+    "Genetic Variation": {
+        "PlasmoDB Total SNPs": 131.0,
+        "PlasmoDB SNP count": "Non-coding: 110 | Synonymous: 15 | Nonsynonymous: 6 | Stop Codon: 0"
+    },
+    "Binding Evidence": {
+        "AlphaFill Uniprot ID": "C6KSP5",
+        "\"Best\" AlphaFill ligand hit": "GSH (glutathione, Local RMSD=4.02) with 6BNN (Global RMSD=4.99)",
+        "BRENDA ID": [
+            {
+                "ID": "4.4.1.5",
+                "Description": "lactoylglutathione lyase"
+            }
+        ],
+        "Num of Orthology to BindingDB Entries": 3
+    },
+    "Orthology Information": {
+        "Ortholog Group (OrthoMCL)": "OG6_105403",
+        "Most Similar Human Ortholog": "I3L3Q4",
+        "TM-align": {
+            "TM-align score": 0.76227,
+            "TM-align length": "197 / 307",
+            "TM-align RMSD": 2.44,
+            "TM-align sequence identity": 0.142
+        },
+        "All Human Orthologs (OrthoMCL)": [
+            {
+                "ID": "ENSG00000167699",
+                "Description": "glyoxalase domain containing 4"
+            }
+        ]
+    },
+    "Protein Information": {
+        "Protein length": 307,
+        "Molecular Weight (kDa)": 35.838,
+        "Isoelectric Point": 8.51,
+        "UniProt IDs": [
+            {
+                "UniProt ID": "C6KSP5",
+                "UniProt Link": "https://www.uniprot.org/uniprotkb/C6KSP5/entry"
+            }
+        ],
+        "Num of Protein Domain Annotations": 4,
+        "Protein Domain Annotations": [
+            {
+                "Database": "InterPro",
+                "ID": "IPR004360",
+                "Description": "Glyoxalase/fosfomycin resistance/dioxygenase domain"
+            },
+            {
+                "Database": "InterPro",
+                "ID": "IPR029068",
+                "Description": "Glyoxalase/Bleomycin resistance protein/Dihydroxybiphenyl dioxygenase"
+            },
+            {
+                "Database": "PFam",
+                "ID": "PF00903",
+                "Description": "Glyoxalase/fosfomycin resistance/dioxygenase domain"
+            },
+            {
+                "Database": "Superfamily",
+                "ID": "SSF54593",
+                "Description": "Glyoxalase/Bleomycin resistance protein/Dihydroxybiphenyl dioxygenase"
+            }
+        ],
+        "PDB ID(s)": null,
+        "Num of PDB ID": 0
+    },
+    "Resistome Mutations": {
+        "Resistome Missense Mutations": null,
+        "Num of Resistome Missense Mutations": 0,
+        "Resistome Compounds with Missense Mutations": null,
+        "Num of Resistome Compounds with Missense Mutations": 0,
+        "Num of Samples with Disruptive Mutations": "0 (0 missense, 0 \"interesting\" missense)"
+    }
+}

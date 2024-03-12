@@ -1,0 +1,135 @@
+{
+    "Associated Publications": {
+        "Num of Associated Publications": 21
+    },
+    "Essentiality": {
+        "Zhang Phenotype: Non - Mutable in CDS": {
+            "Mutagenesis Index Score (MIS)": 0.141,
+            "Mutagenesis Fitness Score (MFS)": -2.924,
+            "Number of insertions in CDS": 0.0
+        },
+        "PlasmoGEM Phenotype: Essential (Pb ortholog: PBANKA_0210400)": {
+            "Relative Growth Rate": "0.18 \u00b1 0.26",
+            "Confidence": 4.11
+        }
+    },
+    "Genetic Variation": {
+        "PlasmoDB Total SNPs": 201.0,
+        "PlasmoDB SNP count": "Non-coding: 73 | Synonymous: 63 | Nonsynonymous: 65 | Stop Codon: 0"
+    },
+    "Binding Evidence": {
+        "AlphaFill Uniprot ID": "Q8IBJ3",
+        "\"Best\" AlphaFill ligand hit": "ANP (phosphoaminophosphonic acid-adenylate ester, Local RMSD=0.01) with 3H4L (Global RMSD=7.21)",
+        "BRENDA ID": [],
+        "Num of Orthology to BindingDB Entries": 0
+    },
+    "Orthology Information": {
+        "Ortholog Group (OrthoMCL)": "OG6_101943",
+        "Most Similar Human Ortholog": "P54278",
+        "TM-align": {
+            "TM-align score": 0.45828,
+            "TM-align length": "462 / 1330",
+            "TM-align RMSD": 5.32,
+            "TM-align sequence identity": 0.323
+        },
+        "All Human Orthologs (OrthoMCL)": [
+            {
+                "ID": "ENSG00000122512",
+                "Description": "PMS1 homolog 2, mismatch repair system component"
+            }
+        ]
+    },
+    "Protein Information": {
+        "Protein length": 1330,
+        "Molecular Weight (kDa)": 156.839,
+        "Isoelectric Point": 5.49,
+        "UniProt IDs": [
+            {
+                "UniProt ID": "Q8IBJ3",
+                "UniProt Link": "https://www.uniprot.org/uniprotkb/Q8IBJ3/entry"
+            }
+        ],
+        "Num of Protein Domain Annotations": 14,
+        "Protein Domain Annotations": [
+            {
+                "Database": "InterPro",
+                "ID": "IPR002099",
+                "Description": "DNA mismatch repair protein family, N-terminal"
+            },
+            {
+                "Database": "InterPro",
+                "ID": "IPR013507",
+                "Description": "DNA mismatch repair protein,  S5 domain 2-like"
+            },
+            {
+                "Database": "InterPro",
+                "ID": "IPR014762",
+                "Description": "DNA mismatch repair, conserved site"
+            },
+            {
+                "Database": "InterPro",
+                "ID": "IPR014790",
+                "Description": "MutL, C-terminal, dimerisation"
+            },
+            {
+                "Database": "InterPro",
+                "ID": "IPR020568",
+                "Description": "Ribosomal protein S5 domain 2-type fold"
+            },
+            {
+                "Database": "InterPro",
+                "ID": "IPR036890",
+                "Description": "Histidine kinase/HSP90-like ATPase superfamily"
+            },
+            {
+                "Database": "InterPro",
+                "ID": "IPR037198",
+                "Description": "MutL, C-terminal domain superfamily"
+            },
+            {
+                "Database": "InterPro",
+                "ID": "IPR038973",
+                "Description": "DNA mismatch repair protein MutL/Mlh/Pms"
+            },
+            {
+                "Database": "PFam",
+                "ID": "PF01119",
+                "Description": "DNA mismatch repair protein,  S5 domain 2-like"
+            },
+            {
+                "Database": "PFam",
+                "ID": "PF08676",
+                "Description": "MutL, C-terminal, dimerisation"
+            },
+            {
+                "Database": "PFam",
+                "ID": "PF13589",
+                "Description": ""
+            },
+            {
+                "Database": "Superfamily",
+                "ID": "SSF118116",
+                "Description": "MutL, C-terminal domain superfamily"
+            },
+            {
+                "Database": "Superfamily",
+                "ID": "SSF54211",
+                "Description": "Ribosomal protein S5 domain 2-type fold"
+            },
+            {
+                "Database": "Superfamily",
+                "ID": "SSF55874",
+                "Description": "Histidine kinase/HSP90-like ATPase superfamily"
+            }
+        ],
+        "PDB ID(s)": null,
+        "Num of PDB ID": 0
+    },
+    "Resistome Mutations": {
+        "Resistome Missense Mutations": null,
+        "Num of Resistome Missense Mutations": 0,
+        "Resistome Compounds with Missense Mutations": null,
+        "Num of Resistome Compounds with Missense Mutations": 0,
+        "Num of Samples with Disruptive Mutations": "1 (0 missense, 0 \"interesting\" missense)"
+    }
+}

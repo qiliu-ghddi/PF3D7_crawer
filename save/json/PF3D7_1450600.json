@@ -1,0 +1,101 @@
+{
+    "Associated Publications": {
+        "Num of Associated Publications": 1
+    },
+    "Essentiality": {
+        "Zhang Phenotype: Non - Mutable in CDS": {
+            "Mutagenesis Index Score (MIS)": 0.223,
+            "Mutagenesis Fitness Score (MFS)": -2.648,
+            "Number of insertions in CDS": 0.0
+        },
+        "PlasmoGEM Phenotype: Essential (Pb ortholog: PBANKA_1459600)": {
+            "Relative Growth Rate": "0.06 \u00b1 0.06",
+            "Confidence": 6.94
+        }
+    },
+    "Genetic Variation": {
+        "PlasmoDB Total SNPs": 59.0,
+        "PlasmoDB SNP count": "Non-coding: 0 | Synonymous: 38 | Nonsynonymous: 20 | Stop Codon: 1"
+    },
+    "Binding Evidence": {
+        "AlphaFill Uniprot ID": "Q8IKX0",
+        "\"Best\" AlphaFill ligand hit": "PUT (1,4-diaminobutane, Local RMSD=0.42) with 4BP1 (Global RMSD=14.04)",
+        "BRENDA ID": [
+            {
+                "ID": "2.1.1.12",
+                "Description": "methionine S-methyltransferase"
+            }
+        ],
+        "Num of Orthology to BindingDB Entries": 0
+    },
+    "Orthology Information": {
+        "Ortholog Group (OrthoMCL)": "OG6_104941",
+        "Most Similar Human Ortholog": null,
+        "TM-align": null,
+        "All Human Orthologs (OrthoMCL)": null
+    },
+    "Protein Information": {
+        "Protein length": 587,
+        "Molecular Weight (kDa)": 68.391,
+        "Isoelectric Point": 9.29,
+        "UniProt IDs": [
+            {
+                "UniProt ID": "Q8IKX0",
+                "UniProt Link": "https://www.uniprot.org/uniprotkb/Q8IKX0/entry"
+            }
+        ],
+        "Num of Protein Domain Annotations": 7,
+        "Protein Domain Annotations": [
+            {
+                "Database": "InterPro",
+                "ID": "IPR002478",
+                "Description": "PUA domain"
+            },
+            {
+                "Database": "InterPro",
+                "ID": "IPR019614",
+                "Description": "S-adenosylmethionine-dependent methyltransferase"
+            },
+            {
+                "Database": "InterPro",
+                "ID": "IPR029063",
+                "Description": "S-adenosyl-L-methionine-dependent methyltransferase"
+            },
+            {
+                "Database": "InterPro",
+                "ID": "IPR041532",
+                "Description": "RlmI, PUA-like domain"
+            },
+            {
+                "Database": "PFam",
+                "ID": "PF10672",
+                "Description": "S-adenosylmethionine-dependent methyltransferase"
+            },
+            {
+                "Database": "PFam",
+                "ID": "PF17785",
+                "Description": "RlmI, PUA-like domain"
+            },
+            {
+                "Database": "Superfamily",
+                "ID": "SSF53335",
+                "Description": "S-adenosyl-L-methionine-dependent methyltransferase"
+            }
+        ],
+        "PDB ID(s)": null,
+        "Num of PDB ID": 0
+    },
+    "Resistome Mutations": {
+        "Resistome Missense Mutations": [
+            "S17F",
+            "C52Y"
+        ],
+        "Num of Resistome Missense Mutations": 2,
+        "Resistome Compounds with Missense Mutations": [
+            "AN13762",
+            "MMV1454442"
+        ],
+        "Num of Resistome Compounds with Missense Mutations": 2,
+        "Num of Samples with Disruptive Mutations": "4 (4 missense, 0 \"interesting\" missense)"
+    }
+}

@@ -1,0 +1,145 @@
+{
+    "Associated Publications": {
+        "Num of Associated Publications": 33
+    },
+    "Essentiality": {
+        "Zhang Phenotype: Non - Mutable in CDS": {
+            "Mutagenesis Index Score (MIS)": 0.125,
+            "Mutagenesis Fitness Score (MFS)": -3.099,
+            "Number of insertions in CDS": 0.0
+        },
+        "PlasmoGEM Phenotype: Slow (Pb ortholog: PBANKA_0102100)": {
+            "Relative Growth Rate": "0.20 \u00b1 0.08",
+            "Confidence": 6.37
+        },
+        "RMgmDB ABS Phenotype: Different from wild type (Pb ortholog: PBANKA_0102100)": {
+            "Gene Modification": "Disrupted",
+            "RMgmDB ID Link": "RMgm-1610"
+        }
+    },
+    "Genetic Variation": {
+        "PlasmoDB Total SNPs": 69.0,
+        "PlasmoDB SNP count": "Non-coding: 42 | Synonymous: 15 | Nonsynonymous: 12 | Stop Codon: 0"
+    },
+    "Binding Evidence": {
+        "AlphaFill Uniprot ID": "Q08210",
+        "\"Best\" AlphaFill ligand hit": "FOT (5-fluoroorotic acid, Local RMSD=0.04) with 3W1A (Global RMSD=1.41)",
+        "BRENDA ID": [
+            {
+                "ID": "1.3.5.2",
+                "Description": "dihydroorotate dehydrogenase (quinone)"
+            }
+        ],
+        "Num of Orthology to BindingDB Entries": 8
+    },
+    "Orthology Information": {
+        "Ortholog Group (OrthoMCL)": "OG6_101797",
+        "Most Similar Human Ortholog": "Q02127",
+        "TM-align": {
+            "TM-align score": 0.90796,
+            "TM-align length": "389 / 569",
+            "TM-align RMSD": 2.8,
+            "TM-align sequence identity": 0.37
+        },
+        "All Human Orthologs (OrthoMCL)": [
+            {
+                "ID": "ENSG00000102967",
+                "Description": "dihydroorotate dehydrogenase (quinone)"
+            }
+        ]
+    },
+    "Protein Information": {
+        "Protein length": 569,
+        "Molecular Weight (kDa)": 65.558,
+        "Isoelectric Point": 9.43,
+        "UniProt IDs": [
+            {
+                "UniProt ID": "Q08210",
+                "UniProt Link": "https://www.uniprot.org/uniprotkb/Q08210/entry"
+            },
+            {
+                "UniProt ID": "Q54A96",
+                "UniProt Link": "https://www.uniprot.org/uniprotkb/Q54A96/entry"
+            }
+        ],
+        "Num of Protein Domain Annotations": 5,
+        "Protein Domain Annotations": [
+            {
+                "Database": "InterPro",
+                "ID": "IPR001295",
+                "Description": "Dihydroorotate dehydrogenase, conserved site"
+            },
+            {
+                "Database": "InterPro",
+                "ID": "IPR005719",
+                "Description": "Dihydroorotate dehydrogenase, class 2"
+            },
+            {
+                "Database": "InterPro",
+                "ID": "IPR005720",
+                "Description": "Dihydroorotate dehydrogenase domain"
+            },
+            {
+                "Database": "PFam",
+                "ID": "PF01180",
+                "Description": "Dihydroorotate dehydrogenase domain"
+            },
+            {
+                "Database": "Superfamily",
+                "ID": "SSF51395",
+                "Description": "N/A"
+            }
+        ],
+        "PDB ID(s)": [
+            "1TV5",
+            "3I65",
+            "3I68",
+            "3I6R",
+            "3O8A",
+            "3SFK",
+            "4CQ8",
+            "4CQ9",
+            "4CQA",
+            "4ORM",
+            "4RX0",
+            "5BOO",
+            "5DEL",
+            "5FI8",
+            "5TBO",
+            "6E0B",
+            "6GJG"
+        ],
+        "Num of PDB ID": 17
+    },
+    "Resistome Mutations": {
+        "Resistome Missense Mutations": [
+            "G181D",
+            "G181C",
+            "F188I",
+            "F227L",
+            "F227L",
+            "F227Y",
+            "I263S",
+            "R265G",
+            "I273M",
+            "C276F",
+            "C276Y",
+            "K423N",
+            "L531F",
+            "L531F",
+            "V532A"
+        ],
+        "Num of Resistome Missense Mutations": 15,
+        "Resistome Compounds with Missense Mutations": [
+            "176LJ35A",
+            "DSM265",
+            "DSM267",
+            "Genz-669178",
+            "MMV1454442",
+            "TCMDC-125334",
+            "TCMDC-125334+DSM265"
+        ],
+        "Num of Resistome Compounds with Missense Mutations": 7,
+        "Num of Samples with Disruptive Mutations": "72 (72 missense, 69 \"interesting\" missense)"
+    }
+}

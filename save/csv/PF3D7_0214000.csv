@@ -1,0 +1,28 @@
+,0
+Num of Associated Publications,27
+Mutagenesis Index Score (MIS),0.182
+Mutagenesis Fitness Score (MFS),-3.405
+Number of insertions in CDS,0.0
+Relative Growth Rate,
+Gene Modification,
+PlasmoDB Total SNPs,93.0
+PlasmoDB SNP count,Non-coding: 82 | Synonymous: 8 | Nonsynonymous: 2 | Stop Codon: 1
+AlphaFill Uniprot ID,O96220
+"""Best"" AlphaFill ligand hit","ADP (adenosine-5'-diphosphate, Local RMSD=0.99) with 1Q3S (Global RMSD=2.39)"
+BRENDA ID,
+Num of Orthology to BindingDB Entries,0
+Most Similar Human Ortholog,P50990
+TM-align score,0.95858
+TM-align length,538 / 542
+TM-align RMSD,1.68
+TM-align sequence identity,0.338
+Protein length,542
+Molecular Weight (kDa),60.959
+Isoelectric Point,7.69
+UniProt IDs,['O96220']
+PDB ID(s),
+Num of PDB ID,0
+Num of Protein Domain Annotations,10
+Num of Resistome Missense Mutations,0
+Num of Resistome Compounds with Missense Mutations,0
+Num of Samples with Disruptive Mutations,"0 (0 missense, 0 ""interesting"" missense)"

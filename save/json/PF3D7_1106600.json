@@ -1,0 +1,91 @@
+{
+    "Associated Publications": {
+        "Num of Associated Publications": 1
+    },
+    "Essentiality": {
+        "Zhang Phenotype: Non - Mutable in CDS": {
+            "Mutagenesis Index Score (MIS)": 0.13,
+            "Mutagenesis Fitness Score (MFS)": -2.958,
+            "Number of insertions in CDS": 0.0
+        }
+    },
+    "Genetic Variation": {
+        "PlasmoDB Total SNPs": 198.0,
+        "PlasmoDB SNP count": "Non-coding: 46 | Synonymous: 76 | Nonsynonymous: 76 | Stop Codon: 0"
+    },
+    "Binding Evidence": {
+        "AlphaFill Uniprot ID": "Q8IIT7",
+        "\"Best\" AlphaFill ligand hit": "AMP (adenosine monophosphate, Local RMSD=0.01) with 6L5M (Global RMSD=3.53)",
+        "BRENDA ID": [
+            {
+                "ID": "3.6.4.13",
+                "Description": "RNA helicase"
+            }
+        ],
+        "Num of Orthology to BindingDB Entries": 0
+    },
+    "Orthology Information": {
+        "Ortholog Group (OrthoMCL)": "OG6_134690",
+        "Most Similar Human Ortholog": null,
+        "TM-align": null,
+        "All Human Orthologs (OrthoMCL)": null
+    },
+    "Protein Information": {
+        "Protein length": 1313,
+        "Molecular Weight (kDa)": 155.819,
+        "Isoelectric Point": 8.53,
+        "UniProt IDs": [
+            {
+                "UniProt ID": "Q8IIT7",
+                "UniProt Link": "https://www.uniprot.org/uniprotkb/Q8IIT7/entry"
+            }
+        ],
+        "Num of Protein Domain Annotations": 7,
+        "Protein Domain Annotations": [
+            {
+                "Database": "InterPro",
+                "ID": "IPR001650",
+                "Description": "Helicase, C-terminal"
+            },
+            {
+                "Database": "InterPro",
+                "ID": "IPR011545",
+                "Description": "DEAD/DEAH box helicase domain"
+            },
+            {
+                "Database": "InterPro",
+                "ID": "IPR014001",
+                "Description": "Helicase superfamily 1/2, ATP-binding domain"
+            },
+            {
+                "Database": "InterPro",
+                "ID": "IPR027417",
+                "Description": "P-loop containing nucleoside triphosphate hydrolase"
+            },
+            {
+                "Database": "PFam",
+                "ID": "PF00270",
+                "Description": "DEAD/DEAH box helicase domain"
+            },
+            {
+                "Database": "PFam",
+                "ID": "PF00271",
+                "Description": "Helicase, C-terminal"
+            },
+            {
+                "Database": "Superfamily",
+                "ID": "SSF52540",
+                "Description": "P-loop containing nucleoside triphosphate hydrolase"
+            }
+        ],
+        "PDB ID(s)": null,
+        "Num of PDB ID": 0
+    },
+    "Resistome Mutations": {
+        "Resistome Missense Mutations": null,
+        "Num of Resistome Missense Mutations": 0,
+        "Resistome Compounds with Missense Mutations": null,
+        "Num of Resistome Compounds with Missense Mutations": 0,
+        "Num of Samples with Disruptive Mutations": "1 (0 missense, 0 \"interesting\" missense)"
+    }
+}

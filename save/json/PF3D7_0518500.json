@@ -1,0 +1,110 @@
+{
+    "Associated Publications": {
+        "Num of Associated Publications": 21
+    },
+    "Essentiality": {
+        "Zhang Phenotype: Non - Mutable in CDS": {
+            "Mutagenesis Index Score (MIS)": 0.515,
+            "Mutagenesis Fitness Score (MFS)": -2.462,
+            "Number of insertions in CDS": 0.0
+        },
+        "PlasmoGEM Phenotype: Essential (Pb ortholog: PBANKA_1233300)": {
+            "Relative Growth Rate": "0.10 \u00b1 0.10",
+            "Confidence": 5.97
+        }
+    },
+    "Genetic Variation": {
+        "PlasmoDB Total SNPs": 183.0,
+        "PlasmoDB SNP count": "Non-coding: 53 | Synonymous: 71 | Nonsynonymous: 59 | Stop Codon: 0"
+    },
+    "Binding Evidence": {
+        "AlphaFill Uniprot ID": "A0A5K1K868",
+        "\"Best\" AlphaFill ligand hit": "NO3 (nitrate ion, Local RMSD=0.08) with 3PEW (Global RMSD=4.12)",
+        "BRENDA ID": [
+            {
+                "ID": "3.6.4.13",
+                "Description": "RNA helicase"
+            }
+        ],
+        "Num of Orthology to BindingDB Entries": 0
+    },
+    "Orthology Information": {
+        "Ortholog Group (OrthoMCL)": "OG6_102378",
+        "Most Similar Human Ortholog": "Q9BUQ8",
+        "TM-align": {
+            "TM-align score": 0.69249,
+            "TM-align length": "609 / 1123",
+            "TM-align RMSD": 3.37,
+            "TM-align sequence identity": 0.481
+        },
+        "All Human Orthologs (OrthoMCL)": [
+            {
+                "ID": "ENSG00000174243",
+                "Description": "DEAD-box helicase 23"
+            }
+        ]
+    },
+    "Protein Information": {
+        "Protein length": 1123,
+        "Molecular Weight (kDa)": 131.163,
+        "Isoelectric Point": 7.15,
+        "UniProt IDs": [
+            {
+                "UniProt ID": "A0A5K1K868",
+                "UniProt Link": "https://www.uniprot.org/uniprotkb/A0A5K1K868/entry"
+            }
+        ],
+        "Num of Protein Domain Annotations": 8,
+        "Protein Domain Annotations": [
+            {
+                "Database": "InterPro",
+                "ID": "IPR000629",
+                "Description": "ATP-dependent RNA helicase DEAD-box, conserved site"
+            },
+            {
+                "Database": "InterPro",
+                "ID": "IPR001650",
+                "Description": "Helicase, C-terminal"
+            },
+            {
+                "Database": "InterPro",
+                "ID": "IPR011545",
+                "Description": "DEAD/DEAH box helicase domain"
+            },
+            {
+                "Database": "InterPro",
+                "ID": "IPR014001",
+                "Description": "Helicase superfamily 1/2, ATP-binding domain"
+            },
+            {
+                "Database": "InterPro",
+                "ID": "IPR027417",
+                "Description": "P-loop containing nucleoside triphosphate hydrolase"
+            },
+            {
+                "Database": "PFam",
+                "ID": "PF00270",
+                "Description": "DEAD/DEAH box helicase domain"
+            },
+            {
+                "Database": "PFam",
+                "ID": "PF00271",
+                "Description": "Helicase, C-terminal"
+            },
+            {
+                "Database": "Superfamily",
+                "ID": "SSF52540",
+                "Description": "P-loop containing nucleoside triphosphate hydrolase"
+            }
+        ],
+        "PDB ID(s)": null,
+        "Num of PDB ID": 0
+    },
+    "Resistome Mutations": {
+        "Resistome Missense Mutations": null,
+        "Num of Resistome Missense Mutations": 0,
+        "Resistome Compounds with Missense Mutations": null,
+        "Num of Resistome Compounds with Missense Mutations": 0,
+        "Num of Samples with Disruptive Mutations": "1 (0 missense, 0 \"interesting\" missense)"
+    }
+}

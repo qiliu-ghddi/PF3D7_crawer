@@ -1,0 +1,28 @@
+,0
+Num of Associated Publications,2
+Mutagenesis Index Score (MIS),0.123
+Mutagenesis Fitness Score (MFS),-3.112
+Number of insertions in CDS,0.0
+Relative Growth Rate,0.25 ± 0.29
+Gene Modification,
+PlasmoDB Total SNPs,124.0
+PlasmoDB SNP count,Non-coding: 55 | Synonymous: 43 | Nonsynonymous: 26 | Stop Codon: 0
+AlphaFill Uniprot ID,Q8IKP0
+"""Best"" AlphaFill ligand hit","GDP (guanosine-5'-diphosphate, Local RMSD=1.33) with 3EC1 (Global RMSD=5.05)"
+BRENDA ID,
+Num of Orthology to BindingDB Entries,0
+Most Similar Human Ortholog,Q8NC60
+TM-align score,0.48963
+TM-align length,376 / 797
+TM-align RMSD,3.67
+TM-align sequence identity,0.223
+Protein length,797
+Molecular Weight (kDa),94.095
+Isoelectric Point,9.9
+UniProt IDs,['Q8IKP0']
+PDB ID(s),
+Num of PDB ID,0
+Num of Protein Domain Annotations,4
+Num of Resistome Missense Mutations,0
+Num of Resistome Compounds with Missense Mutations,0
+Num of Samples with Disruptive Mutations,"0 (0 missense, 0 ""interesting"" missense)"

@@ -1,0 +1,28 @@
+,0
+Num of Associated Publications,2
+Mutagenesis Index Score (MIS),0.206
+Mutagenesis Fitness Score (MFS),-2.598
+Number of insertions in CDS,0.0
+Relative Growth Rate,0.52 ± 0.17
+Gene Modification,Disrupted
+PlasmoDB Total SNPs,166.0
+PlasmoDB SNP count,Non-coding: 113 | Synonymous: 39 | Nonsynonymous: 14 | Stop Codon: 0
+AlphaFill Uniprot ID,Q8I402
+"""Best"" AlphaFill ligand hit","LSA (1,2-benzisothiazol-3(2h)-one 1,1-dioxide, Local RMSD=0.07) with 4N1O (Global RMSD=2.27)"
+BRENDA ID,['5.2.1.8']
+Num of Orthology to BindingDB Entries,0
+Most Similar Human Ortholog,D6R9Q1
+TM-align score,0.92922
+TM-align length,238 / 747
+TM-align RMSD,1.62
+TM-align sequence identity,0.349
+Protein length,747
+Molecular Weight (kDa),87.04
+Isoelectric Point,7.29
+UniProt IDs,['Q8I402']
+PDB ID(s),['2FU0']
+Num of PDB ID,1
+Num of Protein Domain Annotations,8
+Num of Resistome Missense Mutations,0
+Num of Resistome Compounds with Missense Mutations,0
+Num of Samples with Disruptive Mutations,"0 (0 missense, 0 ""interesting"" missense)"

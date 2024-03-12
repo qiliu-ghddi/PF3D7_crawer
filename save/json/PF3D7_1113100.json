@@ -1,0 +1,115 @@
+{
+    "Associated Publications": {
+        "Num of Associated Publications": 24
+    },
+    "Essentiality": {
+        "Zhang Phenotype: Non - Mutable in CDS": {
+            "Mutagenesis Index Score (MIS)": 0.133,
+            "Mutagenesis Fitness Score (MFS)": -2.801,
+            "Number of insertions in CDS": 0.0
+        },
+        "RMgmDB ABS Phenotype: Not tested (Pb ortholog: PBANKA_0934500)": {
+            "Gene Modification": "Tagged",
+            "RMgmDB ID Link": "RMgm-1086"
+        }
+    },
+    "Genetic Variation": {
+        "PlasmoDB Total SNPs": 273.0,
+        "PlasmoDB SNP count": "Non-coding: 259 | Synonymous: 13 | Nonsynonymous: 1 | Stop Codon: 0"
+    },
+    "Binding Evidence": {
+        "AlphaFill Uniprot ID": "Q8IIN1",
+        "\"Best\" AlphaFill ligand hit": "THJ (thiosulfate, Local RMSD=0.53) with 3S4O (Global RMSD=4.04)",
+        "BRENDA ID": [
+            {
+                "ID": "3.1.3.48",
+                "Description": "protein-tyrosine-phosphatase"
+            }
+        ],
+        "Num of Orthology to BindingDB Entries": 3
+    },
+    "Orthology Information": {
+        "Ortholog Group (OrthoMCL)": "OG6_101823",
+        "Most Similar Human Ortholog": "E9PMY3",
+        "TM-align": {
+            "TM-align score": 0.90069,
+            "TM-align length": "63 / 218",
+            "TM-align RMSD": 1.51,
+            "TM-align sequence identity": 0.349
+        },
+        "All Human Orthologs (OrthoMCL)": [
+            {
+                "ID": "ENSG00000112245",
+                "Description": "protein tyrosine phosphatase 4A1"
+            },
+            {
+                "ID": "ENSG00000184007",
+                "Description": "protein tyrosine phosphatase 4A2"
+            },
+            {
+                "ID": "ENSG00000184489",
+                "Description": "protein tyrosine phosphatase 4A3"
+            },
+            {
+                "ID": "ENSG00000275575",
+                "Description": "protein tyrosine phosphatase 4A3"
+            }
+        ]
+    },
+    "Protein Information": {
+        "Protein length": 218,
+        "Molecular Weight (kDa)": 25.102,
+        "Isoelectric Point": 8.16,
+        "UniProt IDs": [
+            {
+                "UniProt ID": "Q5I8X8",
+                "UniProt Link": "https://www.uniprot.org/uniprotkb/Q5I8X8/entry"
+            },
+            {
+                "UniProt ID": "Q8IIN1",
+                "UniProt Link": "https://www.uniprot.org/uniprotkb/Q8IIN1/entry"
+            }
+        ],
+        "Num of Protein Domain Annotations": 5,
+        "Protein Domain Annotations": [
+            {
+                "Database": "InterPro",
+                "ID": "IPR000340",
+                "Description": "Dual specificity phosphatase, catalytic domain"
+            },
+            {
+                "Database": "InterPro",
+                "ID": "IPR020422",
+                "Description": "Dual specificity protein phosphatase domain"
+            },
+            {
+                "Database": "InterPro",
+                "ID": "IPR029021",
+                "Description": "Protein-tyrosine phosphatase-like"
+            },
+            {
+                "Database": "PFam",
+                "ID": "PF00782",
+                "Description": "Dual specificity phosphatase, catalytic domain"
+            },
+            {
+                "Database": "Superfamily",
+                "ID": "SSF52799",
+                "Description": "Protein-tyrosine phosphatase-like"
+            }
+        ],
+        "PDB ID(s)": null,
+        "Num of PDB ID": 0
+    },
+    "Resistome Mutations": {
+        "Resistome Missense Mutations": [
+            "E201K"
+        ],
+        "Num of Resistome Missense Mutations": 1,
+        "Resistome Compounds with Missense Mutations": [
+            "MMV009108"
+        ],
+        "Num of Resistome Compounds with Missense Mutations": 1,
+        "Num of Samples with Disruptive Mutations": "3 (3 missense, 3 \"interesting\" missense)"
+    }
+}

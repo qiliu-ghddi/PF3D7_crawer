@@ -1,0 +1,124 @@
+{
+    "Associated Publications": {
+        "Num of Associated Publications": 24
+    },
+    "Essentiality": {
+        "Zhang Phenotype: Non - Mutable in CDS": {
+            "Mutagenesis Index Score (MIS)": 0.154,
+            "Mutagenesis Fitness Score (MFS)": -2.822,
+            "Number of insertions in CDS": 0.0
+        },
+        "PlasmoGEM Phenotype: Essential (Pb ortholog: PBANKA_0930200)": {
+            "Relative Growth Rate": "0.05 \u00b1 0.07",
+            "Confidence": 6.6
+        }
+    },
+    "Genetic Variation": {
+        "PlasmoDB Total SNPs": 117.0,
+        "PlasmoDB SNP count": "Non-coding: 36 | Synonymous: 51 | Nonsynonymous: 30 | Stop Codon: 0"
+    },
+    "Binding Evidence": {
+        "AlphaFill Uniprot ID": "Q8IIJ0",
+        "\"Best\" AlphaFill ligand hit": "ACP (phosphomethylphosphonic acid adenylate ester, Local RMSD=0.49) with 6LZJ (Global RMSD=6.15)",
+        "BRENDA ID": [],
+        "Num of Orthology to BindingDB Entries": 0
+    },
+    "Orthology Information": {
+        "Ortholog Group (OrthoMCL)": "OG6_101011",
+        "Most Similar Human Ortholog": "H0Y5L7",
+        "TM-align": {
+            "TM-align score": 0.93513,
+            "TM-align length": "142 / 1016",
+            "TM-align RMSD": 1.32,
+            "TM-align sequence identity": 0.366
+        },
+        "All Human Orthologs (OrthoMCL)": [
+            {
+                "ID": "ENSG00000076242",
+                "Description": "mutL homolog 1"
+            }
+        ]
+    },
+    "Protein Information": {
+        "Protein length": 1016,
+        "Molecular Weight (kDa)": 118.307,
+        "Isoelectric Point": 6.39,
+        "UniProt IDs": [
+            {
+                "UniProt ID": "Q86G82",
+                "UniProt Link": "https://www.uniprot.org/uniprotkb/Q86G82/entry"
+            },
+            {
+                "UniProt ID": "Q8IIJ0",
+                "UniProt Link": "https://www.uniprot.org/uniprotkb/Q8IIJ0/entry"
+            }
+        ],
+        "Num of Protein Domain Annotations": 11,
+        "Protein Domain Annotations": [
+            {
+                "Database": "InterPro",
+                "ID": "IPR013507",
+                "Description": "DNA mismatch repair protein,  S5 domain 2-like"
+            },
+            {
+                "Database": "InterPro",
+                "ID": "IPR014762",
+                "Description": "DNA mismatch repair, conserved site"
+            },
+            {
+                "Database": "InterPro",
+                "ID": "IPR020568",
+                "Description": "Ribosomal protein S5 domain 2-type fold"
+            },
+            {
+                "Database": "InterPro",
+                "ID": "IPR032189",
+                "Description": "DNA mismatch repair protein Mlh1, C-terminal"
+            },
+            {
+                "Database": "InterPro",
+                "ID": "IPR036890",
+                "Description": "Histidine kinase/HSP90-like ATPase superfamily"
+            },
+            {
+                "Database": "InterPro",
+                "ID": "IPR038973",
+                "Description": "DNA mismatch repair protein MutL/Mlh/Pms"
+            },
+            {
+                "Database": "PFam",
+                "ID": "PF01119",
+                "Description": "DNA mismatch repair protein,  S5 domain 2-like"
+            },
+            {
+                "Database": "PFam",
+                "ID": "PF13589",
+                "Description": "DNA mismatch repair protein Mlh1, C-terminal"
+            },
+            {
+                "Database": "PFam",
+                "ID": "PF16413",
+                "Description": ""
+            },
+            {
+                "Database": "Superfamily",
+                "ID": "SSF54211",
+                "Description": "Ribosomal protein S5 domain 2-type fold"
+            },
+            {
+                "Database": "Superfamily",
+                "ID": "SSF55874",
+                "Description": "Histidine kinase/HSP90-like ATPase superfamily"
+            }
+        ],
+        "PDB ID(s)": null,
+        "Num of PDB ID": 0
+    },
+    "Resistome Mutations": {
+        "Resistome Missense Mutations": null,
+        "Num of Resistome Missense Mutations": 0,
+        "Resistome Compounds with Missense Mutations": null,
+        "Num of Resistome Compounds with Missense Mutations": 0,
+        "Num of Samples with Disruptive Mutations": "0 (0 missense, 0 \"interesting\" missense)"
+    }
+}

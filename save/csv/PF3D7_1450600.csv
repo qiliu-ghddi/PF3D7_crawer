@@ -1,0 +1,28 @@
+,0
+Num of Associated Publications,1
+Mutagenesis Index Score (MIS),0.223
+Mutagenesis Fitness Score (MFS),-2.648
+Number of insertions in CDS,0.0
+Relative Growth Rate,0.06 ± 0.06
+Gene Modification,
+PlasmoDB Total SNPs,59.0
+PlasmoDB SNP count,Non-coding: 0 | Synonymous: 38 | Nonsynonymous: 20 | Stop Codon: 1
+AlphaFill Uniprot ID,Q8IKX0
+"""Best"" AlphaFill ligand hit","PUT (1,4-diaminobutane, Local RMSD=0.42) with 4BP1 (Global RMSD=14.04)"
+BRENDA ID,['2.1.1.12']
+Num of Orthology to BindingDB Entries,0
+Most Similar Human Ortholog,
+TM-align score,
+TM-align length,
+TM-align RMSD,
+TM-align sequence identity,
+Protein length,587
+Molecular Weight (kDa),68.391
+Isoelectric Point,9.29
+UniProt IDs,['Q8IKX0']
+PDB ID(s),
+Num of PDB ID,0
+Num of Protein Domain Annotations,7
+Num of Resistome Missense Mutations,2
+Num of Resistome Compounds with Missense Mutations,2
+Num of Samples with Disruptive Mutations,"4 (4 missense, 0 ""interesting"" missense)"

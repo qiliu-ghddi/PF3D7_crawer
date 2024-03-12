@@ -1,0 +1,111 @@
+{
+    "Associated Publications": {
+        "Num of Associated Publications": 27
+    },
+    "Essentiality": {
+        "Zhang Phenotype: Non - Mutable in CDS": {
+            "Mutagenesis Index Score (MIS)": 0.182,
+            "Mutagenesis Fitness Score (MFS)": -3.405,
+            "Number of insertions in CDS": 0.0
+        }
+    },
+    "Genetic Variation": {
+        "PlasmoDB Total SNPs": 93.0,
+        "PlasmoDB SNP count": "Non-coding: 82 | Synonymous: 8 | Nonsynonymous: 2 | Stop Codon: 1"
+    },
+    "Binding Evidence": {
+        "AlphaFill Uniprot ID": "O96220",
+        "\"Best\" AlphaFill ligand hit": "ADP (adenosine-5'-diphosphate, Local RMSD=0.99) with 1Q3S (Global RMSD=2.39)",
+        "BRENDA ID": [],
+        "Num of Orthology to BindingDB Entries": 0
+    },
+    "Orthology Information": {
+        "Ortholog Group (OrthoMCL)": "OG6_102087",
+        "Most Similar Human Ortholog": "P50990",
+        "TM-align": {
+            "TM-align score": 0.95858,
+            "TM-align length": "538 / 542",
+            "TM-align RMSD": 1.68,
+            "TM-align sequence identity": 0.338
+        },
+        "All Human Orthologs (OrthoMCL)": [
+            {
+                "ID": "ENSG00000156261",
+                "Description": "chaperonin containing TCP1 subunit 8"
+            }
+        ]
+    },
+    "Protein Information": {
+        "Protein length": 542,
+        "Molecular Weight (kDa)": 60.959,
+        "Isoelectric Point": 7.69,
+        "UniProt IDs": [
+            {
+                "UniProt ID": "O96220",
+                "UniProt Link": "https://www.uniprot.org/uniprotkb/O96220/entry"
+            }
+        ],
+        "Num of Protein Domain Annotations": 10,
+        "Protein Domain Annotations": [
+            {
+                "Database": "InterPro",
+                "ID": "IPR002423",
+                "Description": "Chaperonin Cpn60/TCP-1 family"
+            },
+            {
+                "Database": "InterPro",
+                "ID": "IPR012721",
+                "Description": "T-complex protein 1, theta subunit"
+            },
+            {
+                "Database": "InterPro",
+                "ID": "IPR017998",
+                "Description": "Chaperone tailless complex polypeptide 1 (TCP-1)"
+            },
+            {
+                "Database": "InterPro",
+                "ID": "IPR027409",
+                "Description": "GroEL-like apical domain superfamily"
+            },
+            {
+                "Database": "InterPro",
+                "ID": "IPR027410",
+                "Description": "TCP-1-like chaperonin intermediate domain superfamily"
+            },
+            {
+                "Database": "InterPro",
+                "ID": "IPR027413",
+                "Description": "GroEL-like equatorial domain superfamily"
+            },
+            {
+                "Database": "PFam",
+                "ID": "PF00118",
+                "Description": "Chaperonin Cpn60/TCP-1 family"
+            },
+            {
+                "Database": "Superfamily",
+                "ID": "SSF48592",
+                "Description": "GroEL-like equatorial domain superfamily"
+            },
+            {
+                "Database": "Superfamily",
+                "ID": "SSF52029",
+                "Description": "GroEL-like apical domain superfamily"
+            },
+            {
+                "Database": "Superfamily",
+                "ID": "SSF54849",
+                "Description": "TCP-1-like chaperonin intermediate domain superfamily"
+            }
+        ],
+        "PDB ID(s)": null,
+        "Num of PDB ID": 0
+    },
+    "Resistome Mutations": {
+        "Resistome Missense Mutations": null,
+        "Num of Resistome Missense Mutations": 0,
+        "Resistome Compounds with Missense Mutations": null,
+        "Num of Resistome Compounds with Missense Mutations": 0,
+        "Num of Samples with Disruptive Mutations": "0 (0 missense, 0 \"interesting\" missense)"
+    }
+}

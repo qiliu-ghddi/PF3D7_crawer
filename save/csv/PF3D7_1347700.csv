@@ -1,0 +1,28 @@
+,0
+Num of Associated Publications,21
+Mutagenesis Index Score (MIS),0.622
+Mutagenesis Fitness Score (MFS),-2.514
+Number of insertions in CDS,0.0
+Relative Growth Rate,0.57 ± 0.23
+Gene Modification,Disrupted
+PlasmoDB Total SNPs,151.0
+PlasmoDB SNP count,Non-coding: 134 | Synonymous: 9 | Nonsynonymous: 8 | Stop Codon: 0
+AlphaFill Uniprot ID,Q8IDM2
+"""Best"" AlphaFill ligand hit","CHT (choline ion, Local RMSD=0.42) with 4ZCQ (Global RMSD=2.23)"
+BRENDA ID,['2.7.7.14']
+Num of Orthology to BindingDB Entries,0
+Most Similar Human Ortholog,I3L1F9
+TM-align score,0.89849
+TM-align length,34 / 573
+TM-align RMSD,0.54
+TM-align sequence identity,0.412
+Protein length,573
+Molecular Weight (kDa),66.039
+Isoelectric Point,5.55
+UniProt IDs,['Q8IDM2']
+PDB ID(s),
+Num of PDB ID,0
+Num of Protein Domain Annotations,3
+Num of Resistome Missense Mutations,0
+Num of Resistome Compounds with Missense Mutations,0
+Num of Samples with Disruptive Mutations,"0 (0 missense, 0 ""interesting"" missense)"

@@ -1,0 +1,103 @@
+{
+    "Associated Publications": {
+        "Num of Associated Publications": 25
+    },
+    "Essentiality": {
+        "Zhang Phenotype: Non - Mutable in CDS": {
+            "Mutagenesis Index Score (MIS)": 0.144,
+            "Mutagenesis Fitness Score (MFS)": -3.162,
+            "Number of insertions in CDS": 0.0
+        },
+        "PlasmoGEM Phenotype: Essential (Pb ortholog: PBANKA_0300800)": {
+            "Relative Growth Rate": "0.07 \u00b1 0.09",
+            "Confidence": 6.23
+        }
+    },
+    "Genetic Variation": {
+        "PlasmoDB Total SNPs": 62.0,
+        "PlasmoDB SNP count": "Non-coding: 35 | Synonymous: 21 | Nonsynonymous: 6 | Stop Codon: 0"
+    },
+    "Binding Evidence": {
+        "AlphaFill Uniprot ID": "O96130",
+        "\"Best\" AlphaFill ligand hit": "PPV (pyrophosphate, Local RMSD=0.05) with 2.00E+90 (Global RMSD=3.19)",
+        "BRENDA ID": [
+            {
+                "ID": "2.5.1.10",
+                "Description": "(2E,6E)-farnesyl diphosphate synthase"
+            },
+            {
+                "ID": "2.5.1.32",
+                "Description": "15-cis-phytoene synthase"
+            },
+            {
+                "ID": "2.5.1.90",
+                "Description": "all-trans-octaprenyl-diphosphate synthase"
+            }
+        ],
+        "Num of Orthology to BindingDB Entries": 2
+    },
+    "Orthology Information": {
+        "Ortholog Group (OrthoMCL)": "OG6_100316",
+        "Most Similar Human Ortholog": "Q5T2R2",
+        "TM-align": {
+            "TM-align score": 0.78575,
+            "TM-align length": "365 / 538",
+            "TM-align RMSD": 3.44,
+            "TM-align sequence identity": 0.274
+        },
+        "All Human Orthologs (OrthoMCL)": [
+            {
+                "ID": "ENSG00000148459",
+                "Description": "decaprenyl diphosphate synthase subunit 1"
+            }
+        ]
+    },
+    "Protein Information": {
+        "Protein length": 538,
+        "Molecular Weight (kDa)": 63.046,
+        "Isoelectric Point": 9.87,
+        "UniProt IDs": [
+            {
+                "UniProt ID": "O96130",
+                "UniProt Link": "https://www.uniprot.org/uniprotkb/O96130/entry"
+            }
+        ],
+        "Num of Protein Domain Annotations": 5,
+        "Protein Domain Annotations": [
+            {
+                "Database": "InterPro",
+                "ID": "IPR000092",
+                "Description": "Polyprenyl synthetase"
+            },
+            {
+                "Database": "InterPro",
+                "ID": "IPR008949",
+                "Description": "Isoprenoid synthase domain superfamily"
+            },
+            {
+                "Database": "InterPro",
+                "ID": "IPR033749",
+                "Description": "Polyprenyl synthetase, conserved site"
+            },
+            {
+                "Database": "PFam",
+                "ID": "PF00348",
+                "Description": "Polyprenyl synthetase"
+            },
+            {
+                "Database": "Superfamily",
+                "ID": "SSF48576",
+                "Description": "Isoprenoid synthase domain superfamily"
+            }
+        ],
+        "PDB ID(s)": null,
+        "Num of PDB ID": 0
+    },
+    "Resistome Mutations": {
+        "Resistome Missense Mutations": null,
+        "Num of Resistome Missense Mutations": 0,
+        "Resistome Compounds with Missense Mutations": null,
+        "Num of Resistome Compounds with Missense Mutations": 0,
+        "Num of Samples with Disruptive Mutations": "0 (0 missense, 0 \"interesting\" missense)"
+    }
+}

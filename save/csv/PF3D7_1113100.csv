@@ -1,0 +1,28 @@
+,0
+Num of Associated Publications,24
+Mutagenesis Index Score (MIS),0.133
+Mutagenesis Fitness Score (MFS),-2.801
+Number of insertions in CDS,0.0
+Relative Growth Rate,
+Gene Modification,Tagged
+PlasmoDB Total SNPs,273.0
+PlasmoDB SNP count,Non-coding: 259 | Synonymous: 13 | Nonsynonymous: 1 | Stop Codon: 0
+AlphaFill Uniprot ID,Q8IIN1
+"""Best"" AlphaFill ligand hit","THJ (thiosulfate, Local RMSD=0.53) with 3S4O (Global RMSD=4.04)"
+BRENDA ID,['3.1.3.48']
+Num of Orthology to BindingDB Entries,3
+Most Similar Human Ortholog,E9PMY3
+TM-align score,0.90069
+TM-align length,63 / 218
+TM-align RMSD,1.51
+TM-align sequence identity,0.349
+Protein length,218
+Molecular Weight (kDa),25.102
+Isoelectric Point,8.16
+UniProt IDs,"['Q5I8X8', 'Q8IIN1']"
+PDB ID(s),
+Num of PDB ID,0
+Num of Protein Domain Annotations,5
+Num of Resistome Missense Mutations,1
+Num of Resistome Compounds with Missense Mutations,1
+Num of Samples with Disruptive Mutations,"3 (3 missense, 3 ""interesting"" missense)"

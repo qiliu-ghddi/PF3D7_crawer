@@ -1,0 +1,76 @@
+{
+    "Associated Publications": {
+        "Num of Associated Publications": 2
+    },
+    "Essentiality": {
+        "Zhang Phenotype: Non - Mutable in CDS": {
+            "Mutagenesis Index Score (MIS)": 0.374,
+            "Mutagenesis Fitness Score (MFS)": -2.616,
+            "Number of insertions in CDS": 0.0
+        }
+    },
+    "Genetic Variation": {
+        "PlasmoDB Total SNPs": 117.0,
+        "PlasmoDB SNP count": "Non-coding: 73 | Synonymous: 33 | Nonsynonymous: 11 | Stop Codon: 0"
+    },
+    "Binding Evidence": {
+        "AlphaFill Uniprot ID": "Q8I386",
+        "\"Best\" AlphaFill ligand hit": "No AlphaFill hits",
+        "BRENDA ID": [
+            {
+                "ID": "3.6.1.9",
+                "Description": "nucleotide diphosphatase"
+            }
+        ],
+        "Num of Orthology to BindingDB Entries": 0
+    },
+    "Orthology Information": {
+        "Ortholog Group (OrthoMCL)": "OG6_107193",
+        "Most Similar Human Ortholog": null,
+        "TM-align": null,
+        "All Human Orthologs (OrthoMCL)": null
+    },
+    "Protein Information": {
+        "Protein length": 434,
+        "Molecular Weight (kDa)": 50.772,
+        "Isoelectric Point": 6.19,
+        "UniProt IDs": [
+            {
+                "UniProt ID": "Q8I386",
+                "UniProt Link": "https://www.uniprot.org/uniprotkb/Q8I386/entry"
+            }
+        ],
+        "Num of Protein Domain Annotations": 4,
+        "Protein Domain Annotations": [
+            {
+                "Database": "InterPro",
+                "ID": "IPR003697",
+                "Description": "Nucleoside triphosphate pyrophosphatase Maf-like protein"
+            },
+            {
+                "Database": "InterPro",
+                "ID": "IPR029001",
+                "Description": "Inosine triphosphate pyrophosphatase-like"
+            },
+            {
+                "Database": "PFam",
+                "ID": "PF02545",
+                "Description": "Nucleoside triphosphate pyrophosphatase Maf-like protein"
+            },
+            {
+                "Database": "Superfamily",
+                "ID": "SSF52972",
+                "Description": "Inosine triphosphate pyrophosphatase-like"
+            }
+        ],
+        "PDB ID(s)": null,
+        "Num of PDB ID": 0
+    },
+    "Resistome Mutations": {
+        "Resistome Missense Mutations": null,
+        "Num of Resistome Missense Mutations": 0,
+        "Resistome Compounds with Missense Mutations": null,
+        "Num of Resistome Compounds with Missense Mutations": 0,
+        "Num of Samples with Disruptive Mutations": "0 (0 missense, 0 \"interesting\" missense)"
+    }
+}

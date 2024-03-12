@@ -1,0 +1,99 @@
+{
+    "Associated Publications": {
+        "Num of Associated Publications": 23
+    },
+    "Essentiality": {
+        "Zhang Phenotype: Non - Mutable in CDS": {
+            "Mutagenesis Index Score (MIS)": 0.127,
+            "Mutagenesis Fitness Score (MFS)": -2.96,
+            "Number of insertions in CDS": 0.0
+        },
+        "PlasmoGEM Phenotype: Essential (Pb ortholog: PBANKA_0828700)": {
+            "Relative Growth Rate": "0.09 \u00b1 0.08",
+            "Confidence": 6.5
+        }
+    },
+    "Genetic Variation": {
+        "PlasmoDB Total SNPs": 342.0,
+        "PlasmoDB SNP count": "Non-coding: 323 | Synonymous: 12 | Nonsynonymous: 7 | Stop Codon: 0"
+    },
+    "Binding Evidence": {
+        "AlphaFill Uniprot ID": "Q9GPP8",
+        "\"Best\" AlphaFill ligand hit": "PEE (dope, Local RMSD=0.93) with 6L07 (Global RMSD=6.17)",
+        "BRENDA ID": [
+            {
+                "ID": "4.1.1.65",
+                "Description": "phosphatidylserine decarboxylase"
+            }
+        ],
+        "Num of Orthology to BindingDB Entries": 0
+    },
+    "Orthology Information": {
+        "Ortholog Group (OrthoMCL)": "OG6_102081",
+        "Most Similar Human Ortholog": "Q9UG56",
+        "TM-align": {
+            "TM-align score": 0.76702,
+            "TM-align length": "284 / 353",
+            "TM-align RMSD": 1.81,
+            "TM-align sequence identity": 0.342
+        },
+        "All Human Orthologs (OrthoMCL)": [
+            {
+                "ID": "ENSG00000241878",
+                "Description": "phosphatidylserine decarboxylase"
+            }
+        ]
+    },
+    "Protein Information": {
+        "Protein length": 353,
+        "Molecular Weight (kDa)": 41.548,
+        "Isoelectric Point": 9.78,
+        "UniProt IDs": [
+            {
+                "UniProt ID": "Q8I2N0",
+                "UniProt Link": "https://www.uniprot.org/uniprotkb/Q8I2N0/entry"
+            },
+            {
+                "UniProt ID": "Q9GPP8",
+                "UniProt Link": "https://www.uniprot.org/uniprotkb/Q9GPP8/entry"
+            }
+        ],
+        "Num of Protein Domain Annotations": 5,
+        "Protein Domain Annotations": [
+            {
+                "Database": "InterPro",
+                "ID": "IPR003817",
+                "Description": "Phosphatidylserine decarboxylase-related"
+            },
+            {
+                "Database": "InterPro",
+                "ID": "IPR033177",
+                "Description": "Phosphatidylserine decarboxylase"
+            },
+            {
+                "Database": "InterPro",
+                "ID": "IPR033661",
+                "Description": "Phosphatidylserine decarboxylase, eukaryotic type 1"
+            },
+            {
+                "Database": "PFam",
+                "ID": "PF02666",
+                "Description": "Phosphatidylserine decarboxylase-related"
+            },
+            {
+                "Database": "Superfamily",
+                "ID": "N/A",
+                "Description": "N/A"
+            }
+        ],
+        "PDB ID(s)": null,
+        "Num of PDB ID": 0
+    },
+    "Resistome Mutations": {
+        "Resistome Missense Mutations": null,
+        "Num of Resistome Missense Mutations": 0,
+        "Resistome Compounds with Missense Mutations": null,
+        "Num of Resistome Compounds with Missense Mutations": 0,
+        "Num of Samples with Disruptive Mutations": "0 (0 missense, 0 \"interesting\" missense)"
+    }
+}

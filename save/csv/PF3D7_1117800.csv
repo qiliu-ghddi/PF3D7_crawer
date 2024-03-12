@@ -1,0 +1,28 @@
+,0
+Num of Associated Publications,24
+Mutagenesis Index Score (MIS),0.154
+Mutagenesis Fitness Score (MFS),-2.822
+Number of insertions in CDS,0.0
+Relative Growth Rate,0.05 ± 0.07
+Gene Modification,
+PlasmoDB Total SNPs,117.0
+PlasmoDB SNP count,Non-coding: 36 | Synonymous: 51 | Nonsynonymous: 30 | Stop Codon: 0
+AlphaFill Uniprot ID,Q8IIJ0
+"""Best"" AlphaFill ligand hit","ACP (phosphomethylphosphonic acid adenylate ester, Local RMSD=0.49) with 6LZJ (Global RMSD=6.15)"
+BRENDA ID,
+Num of Orthology to BindingDB Entries,0
+Most Similar Human Ortholog,H0Y5L7
+TM-align score,0.93513
+TM-align length,142 / 1016
+TM-align RMSD,1.32
+TM-align sequence identity,0.366
+Protein length,1016
+Molecular Weight (kDa),118.307
+Isoelectric Point,6.39
+UniProt IDs,"['Q86G82', 'Q8IIJ0']"
+PDB ID(s),
+Num of PDB ID,0
+Num of Protein Domain Annotations,11
+Num of Resistome Missense Mutations,0
+Num of Resistome Compounds with Missense Mutations,0
+Num of Samples with Disruptive Mutations,"0 (0 missense, 0 ""interesting"" missense)"

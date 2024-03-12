@@ -1,0 +1,88 @@
+{
+    "Associated Publications": {
+        "Num of Associated Publications": 25
+    },
+    "Essentiality": {
+        "Zhang Phenotype: Non - Mutable in CDS": {
+            "Mutagenesis Index Score (MIS)": 0.135,
+            "Mutagenesis Fitness Score (MFS)": -2.98,
+            "Number of insertions in CDS": 0.0
+        }
+    },
+    "Genetic Variation": {
+        "PlasmoDB Total SNPs": 52.0,
+        "PlasmoDB SNP count": "Non-coding: 44 | Synonymous: 6 | Nonsynonymous: 2 | Stop Codon: 0"
+    },
+    "Binding Evidence": {
+        "AlphaFill Uniprot ID": "P62368",
+        "\"Best\" AlphaFill ligand hit": "SFY (4-amino-n-(pyridin-2-yl)benzenesulfonamide, Local RMSD=0.04) with 6MWF (Global RMSD=2.45)",
+        "BRENDA ID": [
+            {
+                "ID": "4.6.1.12",
+                "Description": "2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase"
+            }
+        ],
+        "Num of Orthology to BindingDB Entries": 1
+    },
+    "Orthology Information": {
+        "Ortholog Group (OrthoMCL)": "OG6_105913",
+        "Most Similar Human Ortholog": null,
+        "TM-align": null,
+        "All Human Orthologs (OrthoMCL)": null
+    },
+    "Protein Information": {
+        "Protein length": 240,
+        "Molecular Weight (kDa)": 27.161,
+        "Isoelectric Point": 9.97,
+        "UniProt IDs": [
+            {
+                "UniProt ID": "A0A143ZWM3",
+                "UniProt Link": "https://www.uniprot.org/uniprotkb/A0A143ZWM3/entry"
+            },
+            {
+                "UniProt ID": "P62368",
+                "UniProt Link": "https://www.uniprot.org/uniprotkb/P62368/entry"
+            }
+        ],
+        "Num of Protein Domain Annotations": 5,
+        "Protein Domain Annotations": [
+            {
+                "Database": "InterPro",
+                "ID": "IPR003526",
+                "Description": "2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase"
+            },
+            {
+                "Database": "InterPro",
+                "ID": "IPR020555",
+                "Description": "2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase, conserved site"
+            },
+            {
+                "Database": "InterPro",
+                "ID": "IPR036571",
+                "Description": "2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase superfamily"
+            },
+            {
+                "Database": "PFam",
+                "ID": "PF02542",
+                "Description": "2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase"
+            },
+            {
+                "Database": "Superfamily",
+                "ID": "SSF69765",
+                "Description": "2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase superfamily"
+            }
+        ],
+        "PDB ID(s)": [
+            "4C81",
+            "4C82"
+        ],
+        "Num of PDB ID": 2
+    },
+    "Resistome Mutations": {
+        "Resistome Missense Mutations": null,
+        "Num of Resistome Missense Mutations": 0,
+        "Resistome Compounds with Missense Mutations": null,
+        "Num of Resistome Compounds with Missense Mutations": 0,
+        "Num of Samples with Disruptive Mutations": "0 (0 missense, 0 \"interesting\" missense)"
+    }
+}

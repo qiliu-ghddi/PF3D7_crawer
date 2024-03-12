@@ -1,0 +1,85 @@
+{
+    "Associated Publications": {
+        "Num of Associated Publications": 2
+    },
+    "Essentiality": {
+        "Zhang Phenotype: Non - Mutable in CDS": {
+            "Mutagenesis Index Score (MIS)": 0.123,
+            "Mutagenesis Fitness Score (MFS)": -3.112,
+            "Number of insertions in CDS": 0.0
+        },
+        "PlasmoGEM Phenotype: Essential (Pb ortholog: PBANKA_1322800)": {
+            "Relative Growth Rate": "0.25 \u00b1 0.29",
+            "Confidence": 3.86
+        }
+    },
+    "Genetic Variation": {
+        "PlasmoDB Total SNPs": 124.0,
+        "PlasmoDB SNP count": "Non-coding: 55 | Synonymous: 43 | Nonsynonymous: 26 | Stop Codon: 0"
+    },
+    "Binding Evidence": {
+        "AlphaFill Uniprot ID": "Q8IKP0",
+        "\"Best\" AlphaFill ligand hit": "GDP (guanosine-5'-diphosphate, Local RMSD=1.33) with 3EC1 (Global RMSD=5.05)",
+        "BRENDA ID": [],
+        "Num of Orthology to BindingDB Entries": 0
+    },
+    "Orthology Information": {
+        "Ortholog Group (OrthoMCL)": "OG6_102331",
+        "Most Similar Human Ortholog": "Q8NC60",
+        "TM-align": {
+            "TM-align score": 0.48963,
+            "TM-align length": "376 / 797",
+            "TM-align RMSD": 3.67,
+            "TM-align sequence identity": 0.223
+        },
+        "All Human Orthologs (OrthoMCL)": [
+            {
+                "ID": "ENSG00000084092",
+                "Description": "nitric oxide associated 1"
+            }
+        ]
+    },
+    "Protein Information": {
+        "Protein length": 797,
+        "Molecular Weight (kDa)": 94.095,
+        "Isoelectric Point": 9.9,
+        "UniProt IDs": [
+            {
+                "UniProt ID": "Q8IKP0",
+                "UniProt Link": "https://www.uniprot.org/uniprotkb/Q8IKP0/entry"
+            }
+        ],
+        "Num of Protein Domain Annotations": 4,
+        "Protein Domain Annotations": [
+            {
+                "Database": "InterPro",
+                "ID": "IPR006073",
+                "Description": "GTP binding domain"
+            },
+            {
+                "Database": "InterPro",
+                "ID": "IPR027417",
+                "Description": "P-loop containing nucleoside triphosphate hydrolase"
+            },
+            {
+                "Database": "PFam",
+                "ID": "PF01926",
+                "Description": "GTP binding domain"
+            },
+            {
+                "Database": "Superfamily",
+                "ID": "SSF52540",
+                "Description": "P-loop containing nucleoside triphosphate hydrolase"
+            }
+        ],
+        "PDB ID(s)": null,
+        "Num of PDB ID": 0
+    },
+    "Resistome Mutations": {
+        "Resistome Missense Mutations": null,
+        "Num of Resistome Missense Mutations": 0,
+        "Resistome Compounds with Missense Mutations": null,
+        "Num of Resistome Compounds with Missense Mutations": 0,
+        "Num of Samples with Disruptive Mutations": "0 (0 missense, 0 \"interesting\" missense)"
+    }
+}

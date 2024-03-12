@@ -1,0 +1,122 @@
+{
+    "Associated Publications": {
+        "Num of Associated Publications": 24
+    },
+    "Essentiality": {
+        "Zhang Phenotype: Non - Mutable in CDS": {
+            "Mutagenesis Index Score (MIS)": 0.121,
+            "Mutagenesis Fitness Score (MFS)": -3.09,
+            "Number of insertions in CDS": 0.0
+        },
+        "PlasmoGEM Phenotype: Essential (Pb ortholog: PBANKA_1302400)": {
+            "Relative Growth Rate": "0.01 \u00b1 0.20",
+            "Confidence": 4.63
+        }
+    },
+    "Genetic Variation": {
+        "PlasmoDB Total SNPs": 115.0,
+        "PlasmoDB SNP count": "Non-coding: 60 | Synonymous: 34 | Nonsynonymous: 19 | Stop Codon: 2"
+    },
+    "Binding Evidence": {
+        "AlphaFill Uniprot ID": "Q8IL83",
+        "\"Best\" AlphaFill ligand hit": "U5P (uridine-5'-monophosphate, Local RMSD=0.58) with 3IEL (Global RMSD=2.58)",
+        "BRENDA ID": [],
+        "Num of Orthology to BindingDB Entries": 0
+    },
+    "Orthology Information": {
+        "Ortholog Group (OrthoMCL)": "OG6_101260",
+        "Most Similar Human Ortholog": "C9JZH6",
+        "TM-align": {
+            "TM-align score": 0.95589,
+            "TM-align length": "136 / 876",
+            "TM-align RMSD": 1.12,
+            "TM-align sequence identity": 0.5
+        },
+        "All Human Orthologs (OrthoMCL)": [
+            {
+                "ID": "ENSG00000119203",
+                "Description": "cleavage and polyadenylation specific factor 3"
+            }
+        ]
+    },
+    "Protein Information": {
+        "Protein length": 876,
+        "Molecular Weight (kDa)": 101.185,
+        "Isoelectric Point": 5.15,
+        "UniProt IDs": [
+            {
+                "UniProt ID": "Q8IL83",
+                "UniProt Link": "https://www.uniprot.org/uniprotkb/Q8IL83/entry"
+            }
+        ],
+        "Num of Protein Domain Annotations": 10,
+        "Protein Domain Annotations": [
+            {
+                "Database": "InterPro",
+                "ID": "IPR001279",
+                "Description": "Metallo-beta-lactamase"
+            },
+            {
+                "Database": "InterPro",
+                "ID": "IPR011108",
+                "Description": "Zn-dependent metallo-hydrolase, RNA specificity domain"
+            },
+            {
+                "Database": "InterPro",
+                "ID": "IPR021718",
+                "Description": "Pre-mRNA 3'-end-processing endonuclease polyadenylation factor C-term"
+            },
+            {
+                "Database": "InterPro",
+                "ID": "IPR022712",
+                "Description": "Beta-Casp domain"
+            },
+            {
+                "Database": "InterPro",
+                "ID": "IPR036866",
+                "Description": "Ribonuclease Z/Hydroxyacylglutathione hydrolase-like"
+            },
+            {
+                "Database": "PFam",
+                "ID": "PF07521",
+                "Description": "Zn-dependent metallo-hydrolase, RNA specificity domain"
+            },
+            {
+                "Database": "PFam",
+                "ID": "PF10996",
+                "Description": "Beta-Casp domain"
+            },
+            {
+                "Database": "PFam",
+                "ID": "PF11718",
+                "Description": "Pre-mRNA 3'-end-processing endonuclease polyadenylation factor C-term"
+            },
+            {
+                "Database": "PFam",
+                "ID": "PF16661",
+                "Description": "Metallo-beta-lactamase"
+            },
+            {
+                "Database": "Superfamily",
+                "ID": "SSF56281",
+                "Description": "Ribonuclease Z/Hydroxyacylglutathione hydrolase-like"
+            }
+        ],
+        "PDB ID(s)": null,
+        "Num of PDB ID": 0
+    },
+    "Resistome Mutations": {
+        "Resistome Missense Mutations": [
+            "G289C",
+            "Y408N",
+            "S444C"
+        ],
+        "Num of Resistome Missense Mutations": 3,
+        "Resistome Compounds with Missense Mutations": [
+            "AN13762",
+            "AN13956"
+        ],
+        "Num of Resistome Compounds with Missense Mutations": 2,
+        "Num of Samples with Disruptive Mutations": "4 (4 missense, 4 \"interesting\" missense)"
+    }
+}

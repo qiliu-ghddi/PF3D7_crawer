@@ -1,0 +1,95 @@
+{
+    "Associated Publications": {
+        "Num of Associated Publications": 1
+    },
+    "Essentiality": {
+        "Zhang Phenotype: Non - Mutable in CDS": {
+            "Mutagenesis Index Score (MIS)": 0.123,
+            "Mutagenesis Fitness Score (MFS)": -3.073,
+            "Number of insertions in CDS": 0.0
+        },
+        "PlasmoGEM Phenotype: Essential (Pb ortholog: PBANKA_0912700)": {
+            "Relative Growth Rate": "0.08 \u00b1 0.08",
+            "Confidence": 6.46
+        }
+    },
+    "Genetic Variation": {
+        "PlasmoDB Total SNPs": 172.0,
+        "PlasmoDB SNP count": "Non-coding: 156 | Synonymous: 13 | Nonsynonymous: 3 | Stop Codon: 0"
+    },
+    "Binding Evidence": {
+        "AlphaFill Uniprot ID": "Q8II05",
+        "\"Best\" AlphaFill ligand hit": "OLB ((2s)-2,3-dihydroxypropyl (9z)-octadec-9-enoate, Local RMSD=0.29) with 6JO0 (Global RMSD=15.01)",
+        "BRENDA ID": [
+            {
+                "ID": "1.3.99.5",
+                "Description": "3-oxo-5alpha-steroid 4-dehydrogenase (acceptor)"
+            }
+        ],
+        "Num of Orthology to BindingDB Entries": 5
+    },
+    "Orthology Information": {
+        "Ortholog Group (OrthoMCL)": "OG6_102127",
+        "Most Similar Human Ortholog": "Q9NZ01",
+        "TM-align": {
+            "TM-align score": 0.94179,
+            "TM-align length": "292 / 296",
+            "TM-align RMSD": 1.51,
+            "TM-align sequence identity": 0.37
+        },
+        "All Human Orthologs (OrthoMCL)": [
+            {
+                "ID": "ENSG00000099797",
+                "Description": "trans-2,3-enoyl-CoA reductase"
+            }
+        ]
+    },
+    "Protein Information": {
+        "Protein length": 296,
+        "Molecular Weight (kDa)": 35.468,
+        "Isoelectric Point": 9.84,
+        "UniProt IDs": [
+            {
+                "UniProt ID": "Q8II05",
+                "UniProt Link": "https://www.uniprot.org/uniprotkb/Q8II05/entry"
+            }
+        ],
+        "Num of Protein Domain Annotations": 5,
+        "Protein Domain Annotations": [
+            {
+                "Database": "InterPro",
+                "ID": "IPR001104",
+                "Description": "3-oxo-5-alpha-steroid 4-dehydrogenase, C-terminal"
+            },
+            {
+                "Database": "InterPro",
+                "ID": "IPR029071",
+                "Description": "Ubiquitin-like domain superfamily"
+            },
+            {
+                "Database": "InterPro",
+                "ID": "IPR039357",
+                "Description": "3-oxo-5-alpha-steroid 4-dehydrogenase/very-long-chain enoyl-CoA reductase"
+            },
+            {
+                "Database": "PFam",
+                "ID": "PF02544",
+                "Description": "3-oxo-5-alpha-steroid 4-dehydrogenase, C-terminal"
+            },
+            {
+                "Database": "Superfamily",
+                "ID": "SSF54236",
+                "Description": "Ubiquitin-like domain superfamily"
+            }
+        ],
+        "PDB ID(s)": null,
+        "Num of PDB ID": 0
+    },
+    "Resistome Mutations": {
+        "Resistome Missense Mutations": null,
+        "Num of Resistome Missense Mutations": 0,
+        "Resistome Compounds with Missense Mutations": null,
+        "Num of Resistome Compounds with Missense Mutations": 0,
+        "Num of Samples with Disruptive Mutations": "0 (0 missense, 0 \"interesting\" missense)"
+    }
+}

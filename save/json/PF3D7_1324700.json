@@ -1,0 +1,99 @@
+{
+    "Associated Publications": {
+        "Num of Associated Publications": 1
+    },
+    "Essentiality": {
+        "Zhang Phenotype: Non - Mutable in CDS": {
+            "Mutagenesis Index Score (MIS)": 0.121,
+            "Mutagenesis Fitness Score (MFS)": -3.22,
+            "Number of insertions in CDS": 0.0
+        },
+        "PlasmoGEM Phenotype: Essential (Pb ortholog: PBANKA_1339900)": {
+            "Relative Growth Rate": "0.28 \u00b1 0.22",
+            "Confidence": 4.4
+        }
+    },
+    "Genetic Variation": {
+        "PlasmoDB Total SNPs": 113.0,
+        "PlasmoDB SNP count": "Non-coding: 111 | Synonymous: 2 | Nonsynonymous: 0 | Stop Codon: 0"
+    },
+    "Binding Evidence": {
+        "AlphaFill Uniprot ID": "C0H5D3",
+        "\"Best\" AlphaFill ligand hit": "FAR (farnesyl, Local RMSD=0.89) with 6J7F (Global RMSD=3.30)",
+        "BRENDA ID": [],
+        "Num of Orthology to BindingDB Entries": 0
+    },
+    "Orthology Information": {
+        "Ortholog Group (OrthoMCL)": "OG6_101684",
+        "Most Similar Human Ortholog": "A0A7I2V4L6",
+        "TM-align": {
+            "TM-align score": 0.91313,
+            "TM-align length": "188 / 221",
+            "TM-align RMSD": 1.69,
+            "TM-align sequence identity": 0.319
+        },
+        "All Human Orthologs (OrthoMCL)": [
+            {
+                "ID": "ENSG00000106636",
+                "Description": "YKT6 v-SNARE homolog"
+            }
+        ]
+    },
+    "Protein Information": {
+        "Protein length": 221,
+        "Molecular Weight (kDa)": 25.747,
+        "Isoelectric Point": 8.44,
+        "UniProt IDs": [
+            {
+                "UniProt ID": "C0H5D3",
+                "UniProt Link": "https://www.uniprot.org/uniprotkb/C0H5D3/entry"
+            },
+            {
+                "UniProt ID": "Q0ZAG4",
+                "UniProt Link": "https://www.uniprot.org/uniprotkb/Q0ZAG4/entry"
+            }
+        ],
+        "Num of Protein Domain Annotations": 6,
+        "Protein Domain Annotations": [
+            {
+                "Database": "InterPro",
+                "ID": "IPR001388",
+                "Description": "Synaptobrevin"
+            },
+            {
+                "Database": "InterPro",
+                "ID": "IPR010908",
+                "Description": "Longin domain"
+            },
+            {
+                "Database": "InterPro",
+                "ID": "IPR011012",
+                "Description": "Longin-like domain superfamily"
+            },
+            {
+                "Database": "PFam",
+                "ID": "PF00957",
+                "Description": "Synaptobrevin"
+            },
+            {
+                "Database": "Superfamily",
+                "ID": "SSF58038",
+                "Description": "Longin-like domain superfamily"
+            },
+            {
+                "Database": "Superfamily",
+                "ID": "SSF64356",
+                "Description": ""
+            }
+        ],
+        "PDB ID(s)": null,
+        "Num of PDB ID": 0
+    },
+    "Resistome Mutations": {
+        "Resistome Missense Mutations": null,
+        "Num of Resistome Missense Mutations": 0,
+        "Resistome Compounds with Missense Mutations": null,
+        "Num of Resistome Compounds with Missense Mutations": 0,
+        "Num of Samples with Disruptive Mutations": "0 (0 missense, 0 \"interesting\" missense)"
+    }
+}

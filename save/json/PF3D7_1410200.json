@@ -1,0 +1,127 @@
+{
+    "Associated Publications": {
+        "Num of Associated Publications": 22
+    },
+    "Essentiality": {
+        "Zhang Phenotype: Non - Mutable in CDS": {
+            "Mutagenesis Index Score (MIS)": 0.143,
+            "Mutagenesis Fitness Score (MFS)": -2.778,
+            "Number of insertions in CDS": 0.0
+        },
+        "PlasmoGEM Phenotype: Essential (Pb ortholog: PBANKA_1032300)": {
+            "Relative Growth Rate": "0.19 \u00b1 0.19",
+            "Confidence": 4.66
+        }
+    },
+    "Genetic Variation": {
+        "PlasmoDB Total SNPs": 218.0,
+        "PlasmoDB SNP count": "Non-coding: 149 | Synonymous: 47 | Nonsynonymous: 21 | Stop Codon: 1"
+    },
+    "Binding Evidence": {
+        "AlphaFill Uniprot ID": "Q8ILZ3",
+        "\"Best\" AlphaFill ligand hit": "ADP (adenosine-5'-diphosphate, Local RMSD=0.12) with 2AD5 (Global RMSD=4.60)",
+        "BRENDA ID": [
+            {
+                "ID": "6.3.4.2",
+                "Description": "CTP synthase (glutamine hydrolysing)"
+            }
+        ],
+        "Num of Orthology to BindingDB Entries": 0
+    },
+    "Orthology Information": {
+        "Ortholog Group (OrthoMCL)": "OG6_100470",
+        "Most Similar Human Ortholog": "A0A3B3ITH9",
+        "TM-align": {
+            "TM-align score": 0.97474,
+            "TM-align length": "111 / 858",
+            "TM-align RMSD": 0.64,
+            "TM-align sequence identity": 0.703
+        },
+        "All Human Orthologs (OrthoMCL)": [
+            {
+                "ID": "ENSG00000047230",
+                "Description": "CTP synthase 2"
+            },
+            {
+                "ID": "ENSG00000171793",
+                "Description": "CTP synthase 1"
+            }
+        ]
+    },
+    "Protein Information": {
+        "Protein length": 858,
+        "Molecular Weight (kDa)": 98.517,
+        "Isoelectric Point": 6.44,
+        "UniProt IDs": [
+            {
+                "UniProt ID": "Q27725",
+                "UniProt Link": "https://www.uniprot.org/uniprotkb/Q27725/entry"
+            },
+            {
+                "UniProt ID": "Q8ILZ3",
+                "UniProt Link": "https://www.uniprot.org/uniprotkb/Q8ILZ3/entry"
+            },
+            {
+                "UniProt ID": "Q9TX46",
+                "UniProt Link": "https://www.uniprot.org/uniprotkb/Q9TX46/entry"
+            }
+        ],
+        "Num of Protein Domain Annotations": 9,
+        "Protein Domain Annotations": [
+            {
+                "Database": "InterPro",
+                "ID": "IPR004468",
+                "Description": "CTP synthase"
+            },
+            {
+                "Database": "InterPro",
+                "ID": "IPR017456",
+                "Description": "CTP synthase, N-terminal"
+            },
+            {
+                "Database": "InterPro",
+                "ID": "IPR017926",
+                "Description": "Glutamine amidotransferase"
+            },
+            {
+                "Database": "InterPro",
+                "ID": "IPR027417",
+                "Description": "P-loop containing nucleoside triphosphate hydrolase"
+            },
+            {
+                "Database": "InterPro",
+                "ID": "IPR029062",
+                "Description": "Class I glutamine amidotransferase-like"
+            },
+            {
+                "Database": "PFam",
+                "ID": "PF00117",
+                "Description": "Glutamine amidotransferase"
+            },
+            {
+                "Database": "PFam",
+                "ID": "PF06418",
+                "Description": "CTP synthase, N-terminal"
+            },
+            {
+                "Database": "Superfamily",
+                "ID": "SSF52317",
+                "Description": "Class I glutamine amidotransferase-like"
+            },
+            {
+                "Database": "Superfamily",
+                "ID": "SSF52540",
+                "Description": "P-loop containing nucleoside triphosphate hydrolase"
+            }
+        ],
+        "PDB ID(s)": null,
+        "Num of PDB ID": 0
+    },
+    "Resistome Mutations": {
+        "Resistome Missense Mutations": null,
+        "Num of Resistome Missense Mutations": 0,
+        "Resistome Compounds with Missense Mutations": null,
+        "Num of Resistome Compounds with Missense Mutations": 0,
+        "Num of Samples with Disruptive Mutations": "0 (0 missense, 0 \"interesting\" missense)"
+    }
+}

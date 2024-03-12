@@ -1,0 +1,101 @@
+{
+    "Associated Publications": {
+        "Num of Associated Publications": 29
+    },
+    "Essentiality": {
+        "Zhang Phenotype: Non - Mutable in CDS": {
+            "Mutagenesis Index Score (MIS)": 0.151,
+            "Mutagenesis Fitness Score (MFS)": -2.791,
+            "Number of insertions in CDS": 0.0
+        },
+        "RMgmDB ABS Phenotype: Different from wild type (Pb ortholog: PBANKA_0915600)": {
+            "Gene Modification": "Tagged",
+            "RMgmDB ID Link": "RMgm-790"
+        }
+    },
+    "Genetic Variation": {
+        "PlasmoDB Total SNPs": 113.0,
+        "PlasmoDB SNP count": "Non-coding: 108 | Synonymous: 4 | Nonsynonymous: 1 | Stop Codon: 0"
+    },
+    "Binding Evidence": {
+        "AlphaFill Uniprot ID": "Q8WPZ6",
+        "\"Best\" AlphaFill ligand hit": "MC3 (1,2-dimyristoyl-rac-glycero-3-phosphocholine, Local RMSD=0.17) with 2B6O (Global RMSD=1.97)",
+        "BRENDA ID": [],
+        "Num of Orthology to BindingDB Entries": 1
+    },
+    "Orthology Information": {
+        "Ortholog Group (OrthoMCL)": "OG6_100415",
+        "Most Similar Human Ortholog": "Q96PS8",
+        "TM-align": {
+            "TM-align score": 0.90986,
+            "TM-align length": "252 / 258",
+            "TM-align RMSD": 2.02,
+            "TM-align sequence identity": 0.337
+        },
+        "All Human Orthologs (OrthoMCL)": [
+            {
+                "ID": "ENSG00000103569",
+                "Description": "aquaporin 9"
+            },
+            {
+                "ID": "ENSG00000143595",
+                "Description": "aquaporin 10"
+            },
+            {
+                "ID": "ENSG00000165272",
+                "Description": "aquaporin 3 (Gill blood group)"
+            }
+        ]
+    },
+    "Protein Information": {
+        "Protein length": 258,
+        "Molecular Weight (kDa)": 28.297,
+        "Isoelectric Point": 7.28,
+        "UniProt IDs": [
+            {
+                "UniProt ID": "Q8II36",
+                "UniProt Link": "https://www.uniprot.org/uniprotkb/Q8II36/entry"
+            },
+            {
+                "UniProt ID": "Q8WPZ6",
+                "UniProt Link": "https://www.uniprot.org/uniprotkb/Q8WPZ6/entry"
+            }
+        ],
+        "Num of Protein Domain Annotations": 4,
+        "Protein Domain Annotations": [
+            {
+                "Database": "InterPro",
+                "ID": "IPR000425",
+                "Description": "Major intrinsic protein"
+            },
+            {
+                "Database": "InterPro",
+                "ID": "IPR023271",
+                "Description": "Aquaporin-like"
+            },
+            {
+                "Database": "PFam",
+                "ID": "PF00230",
+                "Description": "Major intrinsic protein"
+            },
+            {
+                "Database": "Superfamily",
+                "ID": "SSF81338",
+                "Description": "Aquaporin-like"
+            }
+        ],
+        "PDB ID(s)": null,
+        "Num of PDB ID": 0
+    },
+    "Resistome Mutations": {
+        "Resistome Missense Mutations": [
+            "F138Y"
+        ],
+        "Num of Resistome Missense Mutations": 1,
+        "Resistome Compounds with Missense Mutations": [
+            "Cryptosporin"
+        ],
+        "Num of Resistome Compounds with Missense Mutations": 1,
+        "Num of Samples with Disruptive Mutations": "3 (3 missense, 0 \"interesting\" missense)"
+    }
+}

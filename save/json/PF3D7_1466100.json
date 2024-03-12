@@ -1,0 +1,143 @@
+{
+    "Associated Publications": {
+        "Num of Associated Publications": 11
+    },
+    "Essentiality": {
+        "Zhang Phenotype: Non - Mutable in CDS": {
+            "Mutagenesis Index Score (MIS)": 0.302,
+            "Mutagenesis Fitness Score (MFS)": -2.61,
+            "Number of insertions in CDS": 0.0
+        },
+        "PlasmoGEM Phenotype: Slow (Pb ortholog: PBANKA_1329500)": {
+            "Relative Growth Rate": "0.72 \u00b1 0.14",
+            "Confidence": 5.38
+        },
+        "RMgmDB ABS Phenotype: Different from wild type (Pb ortholog: PBANKA_1329500)": {
+            "Gene Modification": "Disrupted",
+            "RMgmDB ID Link": "RMgm-3546"
+        }
+    },
+    "Genetic Variation": {
+        "PlasmoDB Total SNPs": 121.0,
+        "PlasmoDB SNP count": "Non-coding: 70 | Synonymous: 32 | Nonsynonymous: 16 | Stop Codon: 3"
+    },
+    "Binding Evidence": {
+        "AlphaFill Uniprot ID": "Q8IKH5",
+        "\"Best\" AlphaFill ligand hit": "NHE (n-cyclohexyltaurine, Local RMSD=0.32) with 6GHM (Global RMSD=7.44)",
+        "BRENDA ID": [
+            {
+                "ID": "3.1.3.16",
+                "Description": "protein-serine/threonine phosphatase"
+            }
+        ],
+        "Num of Orthology to BindingDB Entries": 0
+    },
+    "Orthology Information": {
+        "Ortholog Group (OrthoMCL)": "OG6_106601",
+        "Most Similar Human Ortholog": null,
+        "TM-align": null,
+        "All Human Orthologs (OrthoMCL)": null
+    },
+    "Protein Information": {
+        "Protein length": 889,
+        "Molecular Weight (kDa)": 100.775,
+        "Isoelectric Point": 7.26,
+        "UniProt IDs": [
+            {
+                "UniProt ID": "O96914",
+                "UniProt Link": "https://www.uniprot.org/uniprotkb/O96914/entry"
+            },
+            {
+                "UniProt ID": "Q8IKH5",
+                "UniProt Link": "https://www.uniprot.org/uniprotkb/Q8IKH5/entry"
+            }
+        ],
+        "Num of Protein Domain Annotations": 15,
+        "Protein Domain Annotations": [
+            {
+                "Database": "InterPro",
+                "ID": "IPR004843",
+                "Description": "Calcineurin-like phosphoesterase domain, ApaH type"
+            },
+            {
+                "Database": "InterPro",
+                "ID": "IPR006186",
+                "Description": "Serine/threonine-specific protein phosphatase/bis(5-nucleosyl)-tetraphosphatase"
+            },
+            {
+                "Database": "InterPro",
+                "ID": "IPR006652",
+                "Description": "Kelch repeat type 1"
+            },
+            {
+                "Database": "InterPro",
+                "ID": "IPR011043",
+                "Description": "Galactose oxidase/kelch, beta-propeller"
+            },
+            {
+                "Database": "InterPro",
+                "ID": "IPR011498",
+                "Description": "Kelch repeat type 2"
+            },
+            {
+                "Database": "InterPro",
+                "ID": "IPR012391",
+                "Description": "Serine/threonine protein phosphatase, BSU1"
+            },
+            {
+                "Database": "InterPro",
+                "ID": "IPR015915",
+                "Description": "Kelch-type beta propeller"
+            },
+            {
+                "Database": "InterPro",
+                "ID": "IPR041758",
+                "Description": "Phosphatase BSL, C-terminal metallophosphatase domain"
+            },
+            {
+                "Database": "PFam",
+                "ID": "PF00149",
+                "Description": "Calcineurin-like phosphoesterase domain, ApaH type"
+            },
+            {
+                "Database": "PFam",
+                "ID": "PF01344",
+                "Description": "Kelch repeat type 1"
+            },
+            {
+                "Database": "PFam",
+                "ID": "PF07646",
+                "Description": "Kelch repeat type 2"
+            },
+            {
+                "Database": "PFam",
+                "ID": "PF13418",
+                "Description": ""
+            },
+            {
+                "Database": "Superfamily",
+                "ID": "SSF117281",
+                "Description": "Kelch-type beta propeller"
+            },
+            {
+                "Database": "Superfamily",
+                "ID": "SSF50965",
+                "Description": "Galactose oxidase/kelch, beta-propeller"
+            },
+            {
+                "Database": "Superfamily",
+                "ID": "SSF56300",
+                "Description": ""
+            }
+        ],
+        "PDB ID(s)": null,
+        "Num of PDB ID": 0
+    },
+    "Resistome Mutations": {
+        "Resistome Missense Mutations": null,
+        "Num of Resistome Missense Mutations": 0,
+        "Resistome Compounds with Missense Mutations": null,
+        "Num of Resistome Compounds with Missense Mutations": 0,
+        "Num of Samples with Disruptive Mutations": "0 (0 missense, 0 \"interesting\" missense)"
+    }
+}

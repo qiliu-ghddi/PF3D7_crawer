@@ -1,0 +1,116 @@
+{
+    "Associated Publications": {
+        "Num of Associated Publications": 2
+    },
+    "Essentiality": {
+        "Zhang Phenotype: Non - Mutable in CDS": {
+            "Mutagenesis Index Score (MIS)": 0.206,
+            "Mutagenesis Fitness Score (MFS)": -2.598,
+            "Number of insertions in CDS": 0.0
+        },
+        "PlasmoGEM Phenotype: Slow (Pb ortholog: PBANKA_1109800)": {
+            "Relative Growth Rate": "0.52 \u00b1 0.17",
+            "Confidence": 4.92
+        },
+        "RMgmDB ABS Phenotype: Different from wild type (Pb ortholog: PBANKA_1109800)": {
+            "Gene Modification": "Disrupted",
+            "RMgmDB ID Link": "RMgm-2977"
+        }
+    },
+    "Genetic Variation": {
+        "PlasmoDB Total SNPs": 166.0,
+        "PlasmoDB SNP count": "Non-coding: 113 | Synonymous: 39 | Nonsynonymous: 14 | Stop Codon: 0"
+    },
+    "Binding Evidence": {
+        "AlphaFill Uniprot ID": "Q8I402",
+        "\"Best\" AlphaFill ligand hit": "LSA (1,2-benzisothiazol-3(2h)-one 1,1-dioxide, Local RMSD=0.07) with 4N1O (Global RMSD=2.27)",
+        "BRENDA ID": [
+            {
+                "ID": "5.2.1.8",
+                "Description": "peptidylprolyl isomerase"
+            }
+        ],
+        "Num of Orthology to BindingDB Entries": 0
+    },
+    "Orthology Information": {
+        "Ortholog Group (OrthoMCL)": "OG6_102016",
+        "Most Similar Human Ortholog": "D6R9Q1",
+        "TM-align": {
+            "TM-align score": 0.92922,
+            "TM-align length": "238 / 747",
+            "TM-align RMSD": 1.62,
+            "TM-align sequence identity": 0.349
+        },
+        "All Human Orthologs (OrthoMCL)": [
+            {
+                "ID": "ENSG00000113593",
+                "Description": "peptidylprolyl isomerase domain and WD repeat containing 1"
+            }
+        ]
+    },
+    "Protein Information": {
+        "Protein length": 747,
+        "Molecular Weight (kDa)": 87.04,
+        "Isoelectric Point": 7.29,
+        "UniProt IDs": [
+            {
+                "UniProt ID": "Q8I402",
+                "UniProt Link": "https://www.uniprot.org/uniprotkb/Q8I402/entry"
+            }
+        ],
+        "Num of Protein Domain Annotations": 8,
+        "Protein Domain Annotations": [
+            {
+                "Database": "InterPro",
+                "ID": "IPR001680",
+                "Description": "WD40 repeat"
+            },
+            {
+                "Database": "InterPro",
+                "ID": "IPR002130",
+                "Description": "Cyclophilin-type peptidyl-prolyl cis-trans isomerase domain"
+            },
+            {
+                "Database": "InterPro",
+                "ID": "IPR020892",
+                "Description": "Cyclophilin-type peptidyl-prolyl cis-trans isomerase, conserved site"
+            },
+            {
+                "Database": "InterPro",
+                "ID": "IPR029000",
+                "Description": "Cyclophilin-like domain superfamily"
+            },
+            {
+                "Database": "InterPro",
+                "ID": "IPR036322",
+                "Description": "WD40-repeat-containing domain superfamily"
+            },
+            {
+                "Database": "PFam",
+                "ID": "PF00160",
+                "Description": "Cyclophilin-type peptidyl-prolyl cis-trans isomerase domain"
+            },
+            {
+                "Database": "Superfamily",
+                "ID": "SSF50891",
+                "Description": "Cyclophilin-like domain superfamily"
+            },
+            {
+                "Database": "Superfamily",
+                "ID": "SSF50978",
+                "Description": "WD40-repeat-containing domain superfamily"
+            }
+        ],
+        "PDB ID(s)": [
+            "2FU0"
+        ],
+        "Num of PDB ID": 1
+    },
+    "Resistome Mutations": {
+        "Resistome Missense Mutations": null,
+        "Num of Resistome Missense Mutations": 0,
+        "Resistome Compounds with Missense Mutations": null,
+        "Num of Resistome Compounds with Missense Mutations": 0,
+        "Num of Samples with Disruptive Mutations": "0 (0 missense, 0 \"interesting\" missense)"
+    }
+}

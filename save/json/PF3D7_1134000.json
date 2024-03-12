@@ -1,0 +1,115 @@
+{
+    "Associated Publications": {
+        "Num of Associated Publications": 26
+    },
+    "Essentiality": {
+        "Zhang Phenotype: Non - Mutable in CDS": {
+            "Mutagenesis Index Score (MIS)": 0.182,
+            "Mutagenesis Fitness Score (MFS)": -2.879,
+            "Number of insertions in CDS": 0.0
+        }
+    },
+    "Genetic Variation": {
+        "PlasmoDB Total SNPs": 80.0,
+        "PlasmoDB SNP count": "Non-coding: 58 | Synonymous: 12 | Nonsynonymous: 10 | Stop Codon: 0"
+    },
+    "Binding Evidence": {
+        "AlphaFill Uniprot ID": "Q8II24",
+        "\"Best\" AlphaFill ligand hit": "NO3 (nitrate ion, Local RMSD=0.11) with 7N46 (Global RMSD=2.91)",
+        "BRENDA ID": [],
+        "Num of Orthology to BindingDB Entries": 4
+    },
+    "Orthology Information": {
+        "Ortholog Group (OrthoMCL)": "OG6_100423",
+        "Most Similar Human Ortholog": "A0A7I2V2G2",
+        "TM-align": {
+            "TM-align score": 0.95395,
+            "TM-align length": "597 / 663",
+            "TM-align RMSD": 1.65,
+            "TM-align sequence identity": 0.648
+        },
+        "All Human Orthologs (OrthoMCL)": [
+            {
+                "ID": "ENSG00000113013",
+                "Description": "heat shock protein family A (Hsp70) member 9"
+            }
+        ]
+    },
+    "Protein Information": {
+        "Protein length": 663,
+        "Molecular Weight (kDa)": 73.297,
+        "Isoelectric Point": 6.74,
+        "UniProt IDs": [
+            {
+                "UniProt ID": "Q8II24",
+                "UniProt Link": "https://www.uniprot.org/uniprotkb/Q8II24/entry"
+            },
+            {
+                "UniProt ID": "Q9GUX1",
+                "UniProt Link": "https://www.uniprot.org/uniprotkb/Q9GUX1/entry"
+            }
+        ],
+        "Num of Protein Domain Annotations": 10,
+        "Protein Domain Annotations": [
+            {
+                "Database": "InterPro",
+                "ID": "IPR012725",
+                "Description": "Chaperone DnaK"
+            },
+            {
+                "Database": "InterPro",
+                "ID": "IPR013126",
+                "Description": "Heat shock protein 70 family"
+            },
+            {
+                "Database": "InterPro",
+                "ID": "IPR018181",
+                "Description": "Heat shock protein 70, conserved site"
+            },
+            {
+                "Database": "InterPro",
+                "ID": "IPR029047",
+                "Description": "Heat shock protein 70kD, peptide-binding domain superfamily"
+            },
+            {
+                "Database": "InterPro",
+                "ID": "IPR029048",
+                "Description": "Heat shock protein 70kD, C-terminal domain superfamily"
+            },
+            {
+                "Database": "InterPro",
+                "ID": "IPR043129",
+                "Description": "ATPase, nucleotide binding domain"
+            },
+            {
+                "Database": "PFam",
+                "ID": "PF00012",
+                "Description": "Heat shock protein 70 family"
+            },
+            {
+                "Database": "Superfamily",
+                "ID": "SSF100920",
+                "Description": "Heat shock protein 70kD, peptide-binding domain superfamily"
+            },
+            {
+                "Database": "Superfamily",
+                "ID": "SSF100934",
+                "Description": "Heat shock protein 70kD, C-terminal domain superfamily"
+            },
+            {
+                "Database": "Superfamily",
+                "ID": "SSF53067",
+                "Description": "ATPase, nucleotide binding domain"
+            }
+        ],
+        "PDB ID(s)": null,
+        "Num of PDB ID": 0
+    },
+    "Resistome Mutations": {
+        "Resistome Missense Mutations": null,
+        "Num of Resistome Missense Mutations": 0,
+        "Resistome Compounds with Missense Mutations": null,
+        "Num of Resistome Compounds with Missense Mutations": 0,
+        "Num of Samples with Disruptive Mutations": "0 (0 missense, 0 \"interesting\" missense)"
+    }
+}

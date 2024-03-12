@@ -1,0 +1,96 @@
+{
+    "Associated Publications": {
+        "Num of Associated Publications": 7
+    },
+    "Essentiality": {
+        "Zhang Phenotype: Non - Mutable in CDS": {
+            "Mutagenesis Index Score (MIS)": 0.243,
+            "Mutagenesis Fitness Score (MFS)": -2.701,
+            "Number of insertions in CDS": 0.0
+        },
+        "RMgmDB ABS Phenotype: Different from wild type (Pb ortholog: PBANKA_0502500)": {
+            "Gene Modification": "Disrupted",
+            "RMgmDB ID Link": "RMgm-1940"
+        }
+    },
+    "Genetic Variation": {
+        "PlasmoDB Total SNPs": 264.0,
+        "PlasmoDB SNP count": "Non-coding: 55 | Synonymous: 84 | Nonsynonymous: 125 | Stop Codon: 0"
+    },
+    "Binding Evidence": {
+        "AlphaFill Uniprot ID": "C6S3C9",
+        "\"Best\" AlphaFill ligand hit": "NHE (n-cyclohexyltaurine, Local RMSD=0.20) with 6GHM (Global RMSD=3.10)",
+        "BRENDA ID": [
+            {
+                "ID": "3.1.3.16",
+                "Description": "protein-serine/threonine phosphatase"
+            }
+        ],
+        "Num of Orthology to BindingDB Entries": 0
+    },
+    "Orthology Information": {
+        "Ortholog Group (OrthoMCL)": "OG6_532774",
+        "Most Similar Human Ortholog": null,
+        "TM-align": null,
+        "All Human Orthologs (OrthoMCL)": null
+    },
+    "Protein Information": {
+        "Protein length": 2166,
+        "Molecular Weight (kDa)": 254.109,
+        "Isoelectric Point": 5.62,
+        "UniProt IDs": [
+            {
+                "UniProt ID": "C6S3C9",
+                "UniProt Link": "https://www.uniprot.org/uniprotkb/C6S3C9/entry"
+            }
+        ],
+        "Num of Protein Domain Annotations": 6,
+        "Protein Domain Annotations": [
+            {
+                "Database": "InterPro",
+                "ID": "IPR006186",
+                "Description": "Serine/threonine-specific protein phosphatase/bis(5-nucleosyl)-tetraphosphatase"
+            },
+            {
+                "Database": "InterPro",
+                "ID": "IPR011992",
+                "Description": "EF-hand domain pair"
+            },
+            {
+                "Database": "InterPro",
+                "ID": "IPR018247",
+                "Description": "EF-Hand 1, calcium-binding site"
+            },
+            {
+                "Database": "PFam",
+                "ID": "N/A",
+                "Description": "N/A"
+            },
+            {
+                "Database": "Superfamily",
+                "ID": "SSF47473",
+                "Description": "EF-hand domain pair"
+            },
+            {
+                "Database": "Superfamily",
+                "ID": "SSF56300",
+                "Description": ""
+            }
+        ],
+        "PDB ID(s)": null,
+        "Num of PDB ID": 0
+    },
+    "Resistome Mutations": {
+        "Resistome Missense Mutations": [
+            "Y1542C",
+            "D1941N"
+        ],
+        "Num of Resistome Missense Mutations": 2,
+        "Resistome Compounds with Missense Mutations": [
+            "MMV982556",
+            "Pepstatin"
+        ],
+        "Num of Resistome Compounds with Missense Mutations": 2,
+        "Num of Samples with Disruptive Mutations": "4 (4 missense, 2 \"interesting\" missense)"
+    }
+}

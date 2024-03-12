@@ -1,0 +1,28 @@
+,0
+Num of Associated Publications,14
+Mutagenesis Index Score (MIS),0.12
+Mutagenesis Fitness Score (MFS),-2.821
+Number of insertions in CDS,0.0
+Relative Growth Rate,
+Gene Modification,
+PlasmoDB Total SNPs,131.0
+PlasmoDB SNP count,Non-coding: 110 | Synonymous: 15 | Nonsynonymous: 6 | Stop Codon: 0
+AlphaFill Uniprot ID,C6KSP5
+"""Best"" AlphaFill ligand hit","GSH (glutathione, Local RMSD=4.02) with 6BNN (Global RMSD=4.99)"
+BRENDA ID,['4.4.1.5']
+Num of Orthology to BindingDB Entries,3
+Most Similar Human Ortholog,I3L3Q4
+TM-align score,0.76227
+TM-align length,197 / 307
+TM-align RMSD,2.44
+TM-align sequence identity,0.142
+Protein length,307
+Molecular Weight (kDa),35.838
+Isoelectric Point,8.51
+UniProt IDs,['C6KSP5']
+PDB ID(s),
+Num of PDB ID,0
+Num of Protein Domain Annotations,4
+Num of Resistome Missense Mutations,0
+Num of Resistome Compounds with Missense Mutations,0
+Num of Samples with Disruptive Mutations,"0 (0 missense, 0 ""interesting"" missense)"

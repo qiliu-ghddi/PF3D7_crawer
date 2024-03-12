@@ -1,0 +1,28 @@
+,0
+Num of Associated Publications,2
+Mutagenesis Index Score (MIS),0.374
+Mutagenesis Fitness Score (MFS),-2.616
+Number of insertions in CDS,0.0
+Relative Growth Rate,
+Gene Modification,
+PlasmoDB Total SNPs,117.0
+PlasmoDB SNP count,Non-coding: 73 | Synonymous: 33 | Nonsynonymous: 11 | Stop Codon: 0
+AlphaFill Uniprot ID,Q8I386
+"""Best"" AlphaFill ligand hit",No AlphaFill hits
+BRENDA ID,['3.6.1.9']
+Num of Orthology to BindingDB Entries,0
+Most Similar Human Ortholog,
+TM-align score,
+TM-align length,
+TM-align RMSD,
+TM-align sequence identity,
+Protein length,434
+Molecular Weight (kDa),50.772
+Isoelectric Point,6.19
+UniProt IDs,['Q8I386']
+PDB ID(s),
+Num of PDB ID,0
+Num of Protein Domain Annotations,4
+Num of Resistome Missense Mutations,0
+Num of Resistome Compounds with Missense Mutations,0
+Num of Samples with Disruptive Mutations,"0 (0 missense, 0 ""interesting"" missense)"

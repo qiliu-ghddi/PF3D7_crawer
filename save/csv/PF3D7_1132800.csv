@@ -1,0 +1,28 @@
+,0
+Num of Associated Publications,29
+Mutagenesis Index Score (MIS),0.151
+Mutagenesis Fitness Score (MFS),-2.791
+Number of insertions in CDS,0.0
+Relative Growth Rate,
+Gene Modification,Tagged
+PlasmoDB Total SNPs,113.0
+PlasmoDB SNP count,Non-coding: 108 | Synonymous: 4 | Nonsynonymous: 1 | Stop Codon: 0
+AlphaFill Uniprot ID,Q8WPZ6
+"""Best"" AlphaFill ligand hit","MC3 (1,2-dimyristoyl-rac-glycero-3-phosphocholine, Local RMSD=0.17) with 2B6O (Global RMSD=1.97)"
+BRENDA ID,
+Num of Orthology to BindingDB Entries,1
+Most Similar Human Ortholog,Q96PS8
+TM-align score,0.90986
+TM-align length,252 / 258
+TM-align RMSD,2.02
+TM-align sequence identity,0.337
+Protein length,258
+Molecular Weight (kDa),28.297
+Isoelectric Point,7.28
+UniProt IDs,"['Q8II36', 'Q8WPZ6']"
+PDB ID(s),
+Num of PDB ID,0
+Num of Protein Domain Annotations,4
+Num of Resistome Missense Mutations,1
+Num of Resistome Compounds with Missense Mutations,1
+Num of Samples with Disruptive Mutations,"3 (3 missense, 0 ""interesting"" missense)"

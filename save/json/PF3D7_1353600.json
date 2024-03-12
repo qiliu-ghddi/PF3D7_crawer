@@ -1,0 +1,88 @@
+{
+    "Associated Publications": {
+        "Num of Associated Publications": 24
+    },
+    "Essentiality": {
+        "Zhang Phenotype: Non - Mutable in CDS": {
+            "Mutagenesis Index Score (MIS)": 0.137,
+            "Mutagenesis Fitness Score (MFS)": -2.972,
+            "Number of insertions in CDS": 0.0
+        },
+        "PlasmoGEM Phenotype: Essential (Pb ortholog: PBANKA_1130200)": {
+            "Relative Growth Rate": "0.10 \u00b1 0.30",
+            "Confidence": 3.81
+        }
+    },
+    "Genetic Variation": {
+        "PlasmoDB Total SNPs": 165.0,
+        "PlasmoDB SNP count": "Non-coding: 153 | Synonymous: 12 | Nonsynonymous: 0 | Stop Codon: 0"
+    },
+    "Binding Evidence": {
+        "AlphaFill Uniprot ID": "Q76NM1",
+        "\"Best\" AlphaFill ligand hit": "CO2 (carbon dioxide, Local RMSD=0.06) with 7OYE (Global RMSD=1.06)",
+        "BRENDA ID": [],
+        "Num of Orthology to BindingDB Entries": 0
+    },
+    "Orthology Information": {
+        "Ortholog Group (OrthoMCL)": "OG6_101087",
+        "Most Similar Human Ortholog": "O43731",
+        "TM-align": {
+            "TM-align score": 0.97172,
+            "TM-align length": "214 / 221",
+            "TM-align RMSD": 1.03,
+            "TM-align sequence identity": 0.453
+        },
+        "All Human Orthologs (OrthoMCL)": [
+            {
+                "ID": "ENSG00000100196",
+                "Description": "KDEL endoplasmic reticulum protein retention receptor 3"
+            },
+            {
+                "ID": "ENSG00000136240",
+                "Description": "KDEL endoplasmic reticulum protein retention receptor 2"
+            }
+        ]
+    },
+    "Protein Information": {
+        "Protein length": 221,
+        "Molecular Weight (kDa)": 26.447,
+        "Isoelectric Point": 9.47,
+        "UniProt IDs": [
+            {
+                "UniProt ID": "P33948",
+                "UniProt Link": "https://www.uniprot.org/uniprotkb/P33948/entry"
+            },
+            {
+                "UniProt ID": "Q76NM1",
+                "UniProt Link": "https://www.uniprot.org/uniprotkb/Q76NM1/entry"
+            }
+        ],
+        "Num of Protein Domain Annotations": 3,
+        "Protein Domain Annotations": [
+            {
+                "Database": "InterPro",
+                "ID": "IPR000133",
+                "Description": "ER lumen protein retaining receptor"
+            },
+            {
+                "Database": "PFam",
+                "ID": "PF00810",
+                "Description": "ER lumen protein retaining receptor"
+            },
+            {
+                "Database": "Superfamily",
+                "ID": "N/A",
+                "Description": "N/A"
+            }
+        ],
+        "PDB ID(s)": null,
+        "Num of PDB ID": 0
+    },
+    "Resistome Mutations": {
+        "Resistome Missense Mutations": null,
+        "Num of Resistome Missense Mutations": 0,
+        "Resistome Compounds with Missense Mutations": null,
+        "Num of Resistome Compounds with Missense Mutations": 0,
+        "Num of Samples with Disruptive Mutations": "0 (0 missense, 0 \"interesting\" missense)"
+    }
+}

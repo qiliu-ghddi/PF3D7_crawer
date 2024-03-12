@@ -1,0 +1,28 @@
+,0
+Num of Associated Publications,25
+Mutagenesis Index Score (MIS),0.135
+Mutagenesis Fitness Score (MFS),-2.98
+Number of insertions in CDS,0.0
+Relative Growth Rate,
+Gene Modification,
+PlasmoDB Total SNPs,52.0
+PlasmoDB SNP count,Non-coding: 44 | Synonymous: 6 | Nonsynonymous: 2 | Stop Codon: 0
+AlphaFill Uniprot ID,P62368
+"""Best"" AlphaFill ligand hit","SFY (4-amino-n-(pyridin-2-yl)benzenesulfonamide, Local RMSD=0.04) with 6MWF (Global RMSD=2.45)"
+BRENDA ID,['4.6.1.12']
+Num of Orthology to BindingDB Entries,1
+Most Similar Human Ortholog,
+TM-align score,
+TM-align length,
+TM-align RMSD,
+TM-align sequence identity,
+Protein length,240
+Molecular Weight (kDa),27.161
+Isoelectric Point,9.97
+UniProt IDs,"['A0A143ZWM3', 'P62368']"
+PDB ID(s),"['4C81', '4C82']"
+Num of PDB ID,2
+Num of Protein Domain Annotations,5
+Num of Resistome Missense Mutations,0
+Num of Resistome Compounds with Missense Mutations,0
+Num of Samples with Disruptive Mutations,"0 (0 missense, 0 ""interesting"" missense)"
